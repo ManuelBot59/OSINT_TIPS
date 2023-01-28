@@ -32,15 +32,16 @@
 | |**SITIOS ELECTRÓNICOS:** |
 | 20 | Motor de búsqueda personalizado: Para saber si un sitio web fraudulento: | https://desenmascara.me/|
 | 21 | Motor de búsqueda personalizado: Obtener la página en caché de cualquier URL de varias fuentes: | http://www.cachedpages.com/|
+| 22 | Motor de búsqueda personalizado: Para explorar más de 782 mil millones de páginas web guardadas a lo largo del tiempo:| https://web.archive.org/|
 | |**CORREOS ELECTRÓNICOS:** |
-| 22 | Motor de búsqueda personalizado: Para verificar las direcciones de correo electrónico:|https://www.verifyemailaddress.org/|
-| 23 | Motor de búsqueda personalizado: Para validar las direcciones de correo electrónico:|https://www.somorr.com/|
-| 24 | Motor de búsqueda personalizado: Para Búsqueda inversa de correo electrónico:|https://thatsthem.com/reverse-email-lookup|
-| 25 | Herramienta gratuita de verificación de direcciones de correo electrónico:|https://tools.emailhippo.com/|
-| 26 | Servicio gratutito para encontrar y verificar direcciones de correo electrónico profesionales: |https://hunter.io/|
+| 23 | Motor de búsqueda personalizado: Para verificar las direcciones de correo electrónico:|https://www.verifyemailaddress.org/|
+| 24 | Motor de búsqueda personalizado: Para validar las direcciones de correo electrónico:|https://www.somorr.com/|
+| 25 | Motor de búsqueda personalizado: Para Búsqueda inversa de correo electrónico:|https://thatsthem.com/reverse-email-lookup|
+| 26 | Herramienta gratuita de verificación de direcciones de correo electrónico:|https://tools.emailhippo.com/|
+| 27 | Servicio gratutito para encontrar y verificar direcciones de correo electrónico profesionales: |https://hunter.io/|
 | |**NÚMEROS TELEFÓNICOS** |
-| 27 | Directorio para búsqueda internacional de números de teléfonos inversos:|https://www.truecaller.com|
-| 28 | Directorio para la Búsqueda inversa de teléfonos:|https://www.reversephonelookup.com/|
-| 29 | Directorio para la Búsqueda inversa de números de teléfono:|https://www.zlookup.com/|
-| 30 | Servicio gratuito de permutador de correo electrónico: |http://metricsparrow.com/toolkit/email-permutator/|
-| 31 | PRÓXIMAMENTE!||
+| 28 | Directorio para búsqueda internacional de números de teléfonos inversos:|https://www.truecaller.com|
+| 29 | Directorio para la Búsqueda inversa de teléfonos:|https://www.reversephonelookup.com/|
+| 30 | Directorio para la Búsqueda inversa de números de teléfono:|https://www.zlookup.com/|
+| 31 | Servicio gratuito de permutador de correo electrónico: |http://metricsparrow.com/toolkit/email-permutator/|
+| 32 | PRÓXIMAMENTE!||
