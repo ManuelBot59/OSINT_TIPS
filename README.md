@@ -42,9 +42,12 @@
 | 28 | Motor de búsqueda personalizado: Para Búsqueda inversa de correo electrónico:|https://thatsthem.com/reverse-email-lookup|
 | 29 | Herramienta gratuita de verificación de direcciones de correo electrónico:|https://tools.emailhippo.com/|
 | 30 | Servicio gratutito para encontrar y verificar direcciones de correo electrónico profesionales: |https://hunter.io/|
-| |**NÚMEROS TELEFÓNICOS** |
+| |**NÚMEROS TELEFÓNICOS:** |
 | 31 | Directorio para búsqueda internacional de números de teléfonos inversos:|https://www.truecaller.com|
 | 32 | Directorio para la Búsqueda inversa de teléfonos:|https://www.reversephonelookup.com/|
 | 33 | Directorio para la Búsqueda inversa de números de teléfono:|https://www.zlookup.com/|
 | 34 | Servicio gratuito de permutador de correo electrónico: |http://metricsparrow.com/toolkit/email-permutator/|
-| 35 | PRÓXIMAMENTE!||
+| |**CRIPTOMONEDAS:** |
+| 35 | Servicio gratuito para las Buscar información por Blockchain, Transacciones, Wallets y cadena de Bloques:|https://www.blockchain.com/explorer|
+| 36 | Servicio gratuito para las Buscar información por BitCoins:|https://mempool.space/es/|
+| 37 | PRÓXIMAMENTE!||
