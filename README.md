@@ -33,15 +33,18 @@
 | 20 | Motor de búsqueda personalizado: Para saber si un sitio web fraudulento: | https://desenmascara.me/|
 | 21 | Motor de búsqueda personalizado: Obtener la página en caché de cualquier URL de varias fuentes: | http://www.cachedpages.com/|
 | 22 | Motor de búsqueda personalizado: Para explorar más de 782 mil millones de páginas web guardadas a lo largo del tiempo:| https://web.archive.org/|
+| 23 | Motor de búsqueda personalizado: Para Visualizar los sitios web que a la fecha han sido víctimas por ataques de Defacements:| http://zone-h.org/archive|
+| 24 | Servicio gratuito para Visualizar todas las Descargas y distribuciones de torrents realizadas por IP:| https://iknowwhatyoudownload.com/en/peer/|
+| 25 | Servicio gratuito para Buscar datos de amenazas en tiempo real por IP, dominio o propietario de la red.:| https://talosintelligence.com/|
 | |**CORREOS ELECTRÓNICOS:** |
-| 23 | Motor de búsqueda personalizado: Para verificar las direcciones de correo electrónico:|https://www.verifyemailaddress.org/|
-| 24 | Motor de búsqueda personalizado: Para validar las direcciones de correo electrónico:|https://www.somorr.com/|
-| 25 | Motor de búsqueda personalizado: Para Búsqueda inversa de correo electrónico:|https://thatsthem.com/reverse-email-lookup|
-| 26 | Herramienta gratuita de verificación de direcciones de correo electrónico:|https://tools.emailhippo.com/|
-| 27 | Servicio gratutito para encontrar y verificar direcciones de correo electrónico profesionales: |https://hunter.io/|
+| 26 | Motor de búsqueda personalizado: Para verificar las direcciones de correo electrónico:|https://www.verifyemailaddress.org/|
+| 27 | Motor de búsqueda personalizado: Para validar las direcciones de correo electrónico:|https://www.somorr.com/|
+| 28 | Motor de búsqueda personalizado: Para Búsqueda inversa de correo electrónico:|https://thatsthem.com/reverse-email-lookup|
+| 29 | Herramienta gratuita de verificación de direcciones de correo electrónico:|https://tools.emailhippo.com/|
+| 30 | Servicio gratutito para encontrar y verificar direcciones de correo electrónico profesionales: |https://hunter.io/|
 | |**NÚMEROS TELEFÓNICOS** |
-| 28 | Directorio para búsqueda internacional de números de teléfonos inversos:|https://www.truecaller.com|
-| 29 | Directorio para la Búsqueda inversa de teléfonos:|https://www.reversephonelookup.com/|
-| 30 | Directorio para la Búsqueda inversa de números de teléfono:|https://www.zlookup.com/|
-| 31 | Servicio gratuito de permutador de correo electrónico: |http://metricsparrow.com/toolkit/email-permutator/|
-| 32 | PRÓXIMAMENTE!||
+| 31 | Directorio para búsqueda internacional de números de teléfonos inversos:|https://www.truecaller.com|
+| 32 | Directorio para la Búsqueda inversa de teléfonos:|https://www.reversephonelookup.com/|
+| 33 | Directorio para la Búsqueda inversa de números de teléfono:|https://www.zlookup.com/|
+| 34 | Servicio gratuito de permutador de correo electrónico: |http://metricsparrow.com/toolkit/email-permutator/|
+| 35 | PRÓXIMAMENTE!||
