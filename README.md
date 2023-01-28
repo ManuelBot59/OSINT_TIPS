@@ -19,8 +19,7 @@
 | 10 | Motor de búsqueda personalizado: Para encontrar archivos públicos en Google Drive:| https://www.dedigger.com/#gsc.tab=0| 
 | 11 | Motor de búsqueda personalizado: Para saber si un sitio web fraudulento: | https://desenmascara.me/|
 | 12 | Motor de búsqueda personalizado: Para verificar las direcciones de correo electrónico:|https://www.verifyemailaddress.org/|
-
-
+| 13 | Motor de búsqueda personalizado: Para validar las direcciones de correo electrónico:|https://www.somorr.com/|
 
 
 
