@@ -17,9 +17,8 @@
 | 08 | Motor de búsqueda especialmente para recursos web académicos (Documentos, tesis, proyectos públicos, etc):| https://www.base-search.net/| 
 | 09 | Motor de búsqueda personalizado de Google: Para la búsqueda de documentos en Google Drive:| https://cse.google.com/cse?cx=f466f6ea4886845d1| 
 | 10 | Motor de búsqueda personalizado: Para encontrar archivos públicos en Google Drive:| https://www.dedigger.com/#gsc.tab=0| 
-
-
-
+| 11 | Motor de búsqueda personalizado: Para saber si un sitio web fraudulento: | https://desenmascara.me/|
+| 12 | Motor de búsqueda personalizado: Para verificar las direcciones de correo electrónico:|https://www.verifyemailaddress.org/|
 
 
 
