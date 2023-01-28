@@ -48,6 +48,9 @@
 | 33 | Directorio para la Búsqueda inversa de números de teléfono:|https://www.zlookup.com/|
 | 34 | Servicio gratuito de permutador de correo electrónico: |http://metricsparrow.com/toolkit/email-permutator/|
 | |**CRIPTOMONEDAS:** |
-| 35 | Servicio gratuito para las Buscar información por Blockchain, Transacciones, Wallets y cadena de Bloques:|https://www.blockchain.com/explorer|
-| 36 | Servicio gratuito para las Buscar información por BitCoins:|https://mempool.space/es/|
-| 37 | PRÓXIMAMENTE!||
+| 35 | Servicio gratuito para Buscar información por Blockchain, Transacciones, Wallets y cadena de Bloques:|https://www.blockchain.com/explorer|
+| 36 | Servicio gratuito para Buscar información por BitCoins:|https://mempool.space/es/|
+| |**MAPAS:** |
+| 37 | Servicio gratuito para Obtener información Sobre el Mapa del Mundo:|https://www.openstreetmap.org/#map=6/-14.881/-51.328|
+| 38 | Servicio gratuito para Obtener información sobre usuarios activos en SnaptChat alrededor del Mundo por Mapas:|https://map.snapchat.com/|
+| 39 | PRÓXIMAMENTE!||
