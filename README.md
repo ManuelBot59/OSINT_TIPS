@@ -20,10 +20,11 @@
 | 11 | Motor de búsqueda personalizado: Para saber si un sitio web fraudulento: | https://desenmascara.me/|
 | 12 | Motor de búsqueda personalizado: Para verificar las direcciones de correo electrónico:|https://www.verifyemailaddress.org/|
 | 13 | Motor de búsqueda personalizado: Para validar las direcciones de correo electrónico:|https://www.somorr.com/|
-
-
-
-
+| 14 | Motor de búsqueda personalizado: Para Búsqueda inversa de correo electrónico:|https://thatsthem.com/reverse-email-lookup|
+| 15 | Directorio para búsqueda internacional de números de teléfonos inversos:|https://www.truecaller.com|
+| 16 | Directorio para la Búsqueda inversa de teléfonos:|https://www.reversephonelookup.com/|
+| 17 | Directorio para la Búsqueda inversa de números de teléfono:|https://www.zlookup.com/|
+| 18 | Servicio gratuito de permutador de correo electrónico: |http://metricsparrow.com/toolkit/email-permutator/|
 
 
 
