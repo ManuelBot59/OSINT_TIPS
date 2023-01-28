@@ -20,22 +20,26 @@
 | 09 | Servicio gratuito para Encontrar seguidores, Estadísticas de seguidores de cualquier usuario de Twitter: | https://socialbearing.com/ |
 | 10 | Servicio gratuito para el Análisis de Twitter sobre cualquier perfil público de Twitter:: | https://foller.me/ |
 | 11 | Servicio gratuito para Visualizar todos los tweets de cualquier usuario de Twitter: | https://www.allmytweets.net/connect/ |
+| 12 | Youtube DataViewer. Servicio gratuito para Extraer información oculta de videos subidos a YouTube: |https://citizenevidence.amnestyusa.org/|
 | |**DOCUMENTOS:** |
-| 07 | Motor de búsqueda personalizado de Google: más de 250 sitios para compartir videos: | https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:hn5bcrszfhe&q|
-| 08 | Motor de búsqueda personalizado de Google: Búsqueda de sitios para compartir archivos:| https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:hn5bcrszfhe&q| 
-| 09 | Motor de búsqueda especialmente para recursos web académicos (Documentos, tesis, proyectos públicos, etc):| https://www.base-search.net/| 
-| 10 | Motor de búsqueda personalizado de Google: Para la búsqueda de documentos en Google Drive:| https://cse.google.com/cse?cx=f466f6ea4886845d1| 
-| 11 | Motor de búsqueda personalizado: Para encontrar archivos públicos en Google Drive:| https://www.dedigger.com/#gsc.tab=0| 
-| |**VERIFICACIÓN WEB:** |
-| 12 | Motor de búsqueda personalizado: Para saber si un sitio web fraudulento: | https://desenmascara.me/|
+| 13 | Motor de búsqueda personalizado de Google: más de 250 sitios para compartir videos: | https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:hn5bcrszfhe&q|
+| 14 | Motor de búsqueda personalizado de Google: Búsqueda de sitios para compartir archivos:| https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:hn5bcrszfhe&q| 
+| 15 | Motor de búsqueda especialmente para recursos web académicos (Documentos, tesis, proyectos públicos, etc):| https://www.base-search.net/| 
+| 16 | Motor de búsqueda personalizado de Google: Para la búsqueda de documentos en Google Drive:| https://cse.google.com/cse?cx=f466f6ea4886845d1| 
+| 17 | Motor de búsqueda personalizado: Para encontrar archivos públicos en Google Drive:| https://www.dedigger.com/#gsc.tab=0| 
+| 18 | Motor de búsqueda personalizado: Para localizar diferentes tipos de archivos en línea:| http://www.faganfinder.com/filetype/ | 
+| |**SITIOS ELECTRÓNICOS:** |
+| 19 | Motor de búsqueda personalizado: Para saber si un sitio web fraudulento: | https://desenmascara.me/|
+| 20 | Motor de búsqueda personalizado: Obtener la página en caché de cualquier URL de varias fuentes: | http://www.cachedpages.com/|
 | |**CORREOS ELECTRÓNICOS:** |
-| 13 | Motor de búsqueda personalizado: Para verificar las direcciones de correo electrónico:|https://www.verifyemailaddress.org/|
-| 14 | Motor de búsqueda personalizado: Para validar las direcciones de correo electrónico:|https://www.somorr.com/|
-| 15 | Motor de búsqueda personalizado: Para Búsqueda inversa de correo electrónico:|https://thatsthem.com/reverse-email-lookup|
-| 16 | Herramienta gratuita de verificación de direcciones de correo electrónico:|https://tools.emailhippo.com/|
-| 17 | Servicio gratutito para encontrar y verificar direcciones de correo electrónico profesionales: |https://hunter.io/|
+| 21 | Motor de búsqueda personalizado: Para verificar las direcciones de correo electrónico:|https://www.verifyemailaddress.org/|
+| 22 | Motor de búsqueda personalizado: Para validar las direcciones de correo electrónico:|https://www.somorr.com/|
+| 23 | Motor de búsqueda personalizado: Para Búsqueda inversa de correo electrónico:|https://thatsthem.com/reverse-email-lookup|
+| 24 | Herramienta gratuita de verificación de direcciones de correo electrónico:|https://tools.emailhippo.com/|
+| 25 | Servicio gratutito para encontrar y verificar direcciones de correo electrónico profesionales: |https://hunter.io/|
 | |**NÚMEROS TELEFÓNICOS** |
-| 18 | Directorio para búsqueda internacional de números de teléfonos inversos:|https://www.truecaller.com|
-| 19 | Directorio para la Búsqueda inversa de teléfonos:|https://www.reversephonelookup.com/|
-| 20 | Directorio para la Búsqueda inversa de números de teléfono:|https://www.zlookup.com/|
-| 21 | Servicio gratuito de permutador de correo electrónico: |http://metricsparrow.com/toolkit/email-permutator/|
+| 26 | Directorio para búsqueda internacional de números de teléfonos inversos:|https://www.truecaller.com|
+| 27 | Directorio para la Búsqueda inversa de teléfonos:|https://www.reversephonelookup.com/|
+| 28 | Directorio para la Búsqueda inversa de números de teléfono:|https://www.zlookup.com/|
+| 29 | Servicio gratuito de permutador de correo electrónico: |http://metricsparrow.com/toolkit/email-permutator/|
+| 30 | PRÓXIMAMENTE!||
