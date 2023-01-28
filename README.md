@@ -38,7 +38,6 @@
 | 25 | Servicio gratuito para Buscar datos de amenazas en tiempo real por IP, dominio o propietario de la red.:| https://talosintelligence.com/|
 | 26 | Servicio gratuito para Desencriptar textos Hash:| https://crackstation.net/ |
 | 27 | Servicio gratuito para Desencriptar textos Hash (MD5, SHA1, MySQL, otros):| https://hashes.com/es/decrypt/hash|
-
 | |**CORREOS ELECTRÓNICOS:** |
 | 28 | Motor de búsqueda personalizado: Para verificar las direcciones de correo electrónico:|https://www.verifyemailaddress.org/|
 | 29 | Motor de búsqueda personalizado: Para validar las direcciones de correo electrónico:|https://www.somorr.com/|
