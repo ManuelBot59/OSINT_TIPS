@@ -15,6 +15,11 @@
 | 04 | Motor de búsqueda personalizado: Para redes sociales. (Búsque por menciones #, por usuarios y trends): | https://www.social-searcher.com/ | 
 | 05 | Motor de búsqueda personalizado de Google: 300 + Sitios de redes sociales: | https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:iyxger-cwug&q |
 | 06 | Motor de búsqueda personalizado de Linkedin: Extractor de Contactos: | https://cse.google.com/cse?cx=001394533911082033616:tm5y1wqwmme |
+| 07 | Servicio gratuito para obtener información detallada sobre un usuario de Twitter: | https://tinfoleak.com/ |
+| 08 | Servicio gratuito para Analizar los seguidores de un usuario de Twitter: | https://moz.com/followerwonk/analyze |
+| 09 | Servicio gratuito para Encontrar seguidores, Estadísticas de seguidores de cualquier usuario de Twitter: | https://socialbearing.com/ |
+| 10 | Servicio gratuito para el Análisis de Twitter sobre cualquier perfil público de Twitter:: | https://foller.me/ |
+| 11 | Servicio gratuito para Visualizar todos los tweets de cualquier usuario de Twitter: | https://www.allmytweets.net/connect/ |
 | |**DOCUMENTOS:** |
 | 07 | Motor de búsqueda personalizado de Google: más de 250 sitios para compartir videos: | https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:hn5bcrszfhe&q|
 | 08 | Motor de búsqueda personalizado de Google: Búsqueda de sitios para compartir archivos:| https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:hn5bcrszfhe&q| 
