@@ -46,23 +46,26 @@
 | 32 | Motor de búsqueda personalizado: Para Búsqueda inversa de correo electrónico:|https://thatsthem.com/reverse-email-lookup|
 | 33 | Herramienta gratuita de verificación de direcciones de correo electrónico:|https://tools.emailhippo.com/|
 | 34 | Servicio gratutito para encontrar y verificar direcciones de correo electrónico profesionales: |https://hunter.io/|
+| |**BUSCADORES CON IA:** |
+| 35 | Motor de búsqueda personalizado con incorporación de redes neuronales (IA) que responde preguntas.:|https://www.perplexity.ai/|
+| 36 | Motor de búsqueda personalizado con integración de IA experimental de Kagi Search: |https://labs.kagi.com/ai/contextai|
 | |**USERNAMES:** |
-| 35 | #OSINT. Herramienta para buscar rápidamente cuentas por nombre de usuario en más de 574 sitios electrónicos:|https://blackbird-osint.herokuapp.com/|
-| 36 | #OSINT. Herramienta que le permite enumerar nombres de usuario en muchos sitios web Servicio gratuito:|https://whatsmyname.app/|
-| 37 | #OSINT. Herramienta que le permite consultar en más de 30 dominios y más de 90 redes sociales:|https://namechk.com/|
+| 37 | #OSINT. Herramienta para buscar rápidamente cuentas por nombre de usuario en más de 574 sitios electrónicos:|https://blackbird-osint.herokuapp.com/|
+| 38 | #OSINT. Herramienta que le permite enumerar nombres de usuario en muchos sitios web Servicio gratuito:|https://whatsmyname.app/|
+| 39 | #OSINT. Herramienta que le permite consultar en más de 30 dominios y más de 90 redes sociales:|https://namechk.com/|
 | |**ACORTADORES DE ENLACE:** |
-| 38 | Servicio gratutito para Investigar Acortadores de enlaces:|https://unshorten.it/|
-| 39 | Servicio gratutito: Expandir y verificar todos sus enlaces acortados |https://checkshorturl.com/|
+| 40 | Servicio gratutito para Investigar Acortadores de enlaces:|https://unshorten.it/|
+| 41 | Servicio gratutito: Expandir y verificar todos sus enlaces acortados |https://checkshorturl.com/|
 | |**NÚMEROS TELEFÓNICOS:** |
-| 40 | #OSINT. Herramienta para la Recopilación de información avanzada para números de teléfonos internacional:|https://demo.phoneinfoga.crvx.fr/#/|
-| 41 | Directorio para búsqueda internacional de números de teléfonos inversos:|https://www.truecaller.com|
-| 42 | Directorio para la Búsqueda inversa de teléfonos:|https://www.reversephonelookup.com/|
-| 43 | Directorio para la Búsqueda inversa de números de teléfono:|https://www.zlookup.com/|
-| 44 | Servicio gratuito de permutador de correo electrónico: |http://metricsparrow.com/toolkit/email-permutator/|
+| 42 | #OSINT. Herramienta para la Recopilación de información avanzada para números de teléfonos internacional:|https://demo.phoneinfoga.crvx.fr/#/|
+| 43 | Directorio para búsqueda internacional de números de teléfonos inversos:|https://www.truecaller.com|
+| 44 | Directorio para la Búsqueda inversa de teléfonos:|https://www.reversephonelookup.com/|
+| 45 | Directorio para la Búsqueda inversa de números de teléfono:|https://www.zlookup.com/|
+| 46 | Servicio gratuito de permutador de correo electrónico: |http://metricsparrow.com/toolkit/email-permutator/|
 | |**CRIPTOMONEDAS:** |
-| 45 | Servicio gratuito para Buscar información por Blockchain, Transacciones, Wallets y cadena de Bloques:|https://www.blockchain.com/explorer|
-| 46 | Servicio gratuito para Buscar información por BitCoins:|https://mempool.space/es/|
+| 47 | Servicio gratuito para Buscar información por Blockchain, Transacciones, Wallets y cadena de Bloques:|https://www.blockchain.com/explorer|
+| 48 | Servicio gratuito para Buscar información por BitCoins:|https://mempool.space/es/|
 | |**MAPAS:** |
-| 47 | Servicio gratuito para Obtener información Sobre el Mapa del Mundo:|https://www.openstreetmap.org/#map=6/-14.881/-51.328|
-| 48 | Servicio gratuito para Obtener información sobre usuarios activos en SnaptChat alrededor del Mundo por Mapas:|https://map.snapchat.com/|
-| 49 | PRÓXIMAMENTE!||
+| 49 | Servicio gratuito para Obtener información Sobre el Mapa del Mundo:|https://www.openstreetmap.org/#map=6/-14.881/-51.328|
+| 50 | Servicio gratuito para Obtener información sobre usuarios activos en SnaptChat alrededor del Mundo por Mapas:|https://map.snapchat.com/|
+| 51 | PRÓXIMAMENTE!||
