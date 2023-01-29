@@ -1,9 +1,4 @@
-
-<div id="badges"align="center">
-<h1>
-  Hola! os comparto Algunos #OSINT_TIPS
-   </h1>
-</div>
+## Hola! os comparto Algunos #OSINT_TIPS para sus excelentes investigaciones en fuentes abiertas (#OSINT)
 
 | TIPS  | DESCRIPCIÓN | ENLACE |
 | ------------- | ------------- |------------- |
