@@ -38,21 +38,24 @@
 | 25 | Servicio gratuito para Buscar datos de amenazas en tiempo real por IP, dominio o propietario de la red.:| https://talosintelligence.com/|
 | 26 | Servicio gratuito para Desencriptar textos Hash:| https://crackstation.net/ |
 | 27 | Servicio gratuito para Desencriptar textos Hash (MD5, SHA1, MySQL, otros):| https://hashes.com/es/decrypt/hash|
-| |**CORREOS ELECTRÓNICOS:** |
 | 28 | Motor de búsqueda personalizado: Para verificar las direcciones de correo electrónico:|https://www.verifyemailaddress.org/|
 | 29 | Motor de búsqueda personalizado: Para validar las direcciones de correo electrónico:|https://www.somorr.com/|
 | 30 | Motor de búsqueda personalizado: Para Búsqueda inversa de correo electrónico:|https://thatsthem.com/reverse-email-lookup|
 | 31 | Herramienta gratuita de verificación de direcciones de correo electrónico:|https://tools.emailhippo.com/|
 | 32 | Servicio gratutito para encontrar y verificar direcciones de correo electrónico profesionales: |https://hunter.io/|
+| |**ACORTADORES DE ENLACE:** |
+| 33 | Servicio gratutito para Investigar Acortadores de enlaces:|https://unshorten.it/|
+| 34 | Servicio gratutito: Expandir y verificar todos sus enlaces acortados |https://checkshorturl.com/|
 | |**NÚMEROS TELEFÓNICOS:** |
-| 33 | Directorio para búsqueda internacional de números de teléfonos inversos:|https://www.truecaller.com|
-| 34 | Directorio para la Búsqueda inversa de teléfonos:|https://www.reversephonelookup.com/|
-| 35 | Directorio para la Búsqueda inversa de números de teléfono:|https://www.zlookup.com/|
-| 36 | Servicio gratuito de permutador de correo electrónico: |http://metricsparrow.com/toolkit/email-permutator/|
+| 35 | Herramienta OSINT para la Recopilación de información avanzada para números de teléfonos internacional:|https://demo.phoneinfoga.crvx.fr/#/|
+| 36 | Directorio para búsqueda internacional de números de teléfonos inversos:|https://www.truecaller.com|
+| 37 | Directorio para la Búsqueda inversa de teléfonos:|https://www.reversephonelookup.com/|
+| 38 | Directorio para la Búsqueda inversa de números de teléfono:|https://www.zlookup.com/|
+| 39 | Servicio gratuito de permutador de correo electrónico: |http://metricsparrow.com/toolkit/email-permutator/|
 | |**CRIPTOMONEDAS:** |
-| 37 | Servicio gratuito para Buscar información por Blockchain, Transacciones, Wallets y cadena de Bloques:|https://www.blockchain.com/explorer|
-| 38 | Servicio gratuito para Buscar información por BitCoins:|https://mempool.space/es/|
+| 40 | Servicio gratuito para Buscar información por Blockchain, Transacciones, Wallets y cadena de Bloques:|https://www.blockchain.com/explorer|
+| 41 | Servicio gratuito para Buscar información por BitCoins:|https://mempool.space/es/|
 | |**MAPAS:** |
-| 39 | Servicio gratuito para Obtener información Sobre el Mapa del Mundo:|https://www.openstreetmap.org/#map=6/-14.881/-51.328|
-| 40 | Servicio gratuito para Obtener información sobre usuarios activos en SnaptChat alrededor del Mundo por Mapas:|https://map.snapchat.com/|
-| 41 | PRÓXIMAMENTE!||
+| 42 | Servicio gratuito para Obtener información Sobre el Mapa del Mundo:|https://www.openstreetmap.org/#map=6/-14.881/-51.328|
+| 43 | Servicio gratuito para Obtener información sobre usuarios activos en SnaptChat alrededor del Mundo por Mapas:|https://map.snapchat.com/|
+| 44 | PRÓXIMAMENTE!||
