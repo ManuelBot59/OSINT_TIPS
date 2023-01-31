@@ -64,6 +64,9 @@
 | 50 | Servicio gratuito para Buscar información por Blockchain, Transacciones, Wallets y cadena de Bloques:|https://www.blockchain.com/explorer|
 | 51 | Servicio gratuito para Buscar información por BitCoins:|https://mempool.space/es/|
 | |**MAPAS:** |
-| 52 | Servicio gratuito para Obtener información Sobre el Mapa del Mundo:|https://www.openstreetmap.org/#map=6/-14.881/-51.328|
+| 52 | Servicio gratuito para Obtener información Sobre el Mapa del Mundo:|https://www.openstreetmap.org/|
 | 53 | Servicio gratuito para Obtener información sobre usuarios activos en SnaptChat alrededor del Mundo por Mapas:|https://map.snapchat.com/|
-| 54 | PRÓXIMAMENTE!||
+| |**REVISTAS:** |
+| 54 | Directorio Directorio gratuito (#AllYouCanRed), que contiene una mayor base de datos mundial de revistas, periódicos y sitios de noticias importantes:|https://www.allyoucanread.com/peru-newspapers/|
+| 55 | Servicio gratuito para visualizar revistas, periódicos y sitios de noticias importantes de Perú 🇵🇪 :|https://www.rcrperu.com/portadas|
+| 56 | PRÓXIMAMENTE!||
