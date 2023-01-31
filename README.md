@@ -67,6 +67,6 @@
 | 52 | Servicio gratuito para Obtener información Sobre el Mapa del Mundo:|https://www.openstreetmap.org/|
 | 53 | Servicio gratuito para Obtener información sobre usuarios activos en SnaptChat alrededor del Mundo por Mapas:|https://map.snapchat.com/|
 | |**REVISTAS:** |
-| 54 | Directorio Directorio gratuito (#AllYouCanRed), que contiene una mayor base de datos mundial de revistas, periódicos y sitios de noticias importantes:|https://www.allyoucanread.com/peru-newspapers/|
+| 54 | Directorio Directorio gratuito (#AllYouCanRed), que contiene una mayor base de datos mundial de revistas, periódicos y sitios de noticias importantes:|https://www.allyoucanread.com/|
 | 55 | Servicio gratuito para visualizar revistas, periódicos y sitios de noticias importantes de Perú 🇵🇪 :|https://www.rcrperu.com/portadas|
 | 56 | PRÓXIMAMENTE!||
