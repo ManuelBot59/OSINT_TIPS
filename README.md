@@ -49,7 +49,7 @@
 | 40 | Servicio gratutito para encontrar y verificar direcciones de correo electrónico profesionales: |https://hunter.io/|
 | |**BUSCADORES CON IA:** |
 | 41 | Motor de búsqueda personalizado con incorporación de redes neuronales (IA) que responde preguntas:|https://www.perplexity.ai/|
-| 42 | Motor de búsqueda personalizado con integración de IA experimental de Kagi Search: |https://labs.kagi.com/ai/contextai|
+| 42 | Motor de búsqueda personalizado con integración de IA: |https://chat.openai.com/chat|
 | |**USERNAMES:** |
 | 43 | #OSINT. Herramienta para buscar rápidamente cuentas por nombre de usuario en más de 574 sitios electrónicos:|https://blackbird-osint.herokuapp.com/|
 | 44 | #OSINT. Herramienta que le permite enumerar nombres de usuario en muchos sitios web Servicio gratuito:|https://whatsmyname.app/|
