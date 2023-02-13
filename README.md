@@ -7,16 +7,16 @@
 | 02 | Buscador personalizado de cámaras web regionales para (casi) cada lugar de la tierra: | https://www.skylinewebcams.com/ | 
 | 03 | Directorio personalizado de cámaras web, transmisiones en vivo de Aeropuertos en todo el mundo 24/7:| https://airportwebcams.net/airport-webcams-by-country/| 
 | |**REDES SOCIALES:** |
-| 04 | Motor de búsqueda personalizado de Google: TELEGAGO. Especialmente para Telegram:| https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg#gsc.tab=0| 
-| 05 | Motor de búsqueda personalizado: Para redes sociales. (Búsque por menciones #, por usuarios y trends): | https://www.social-searcher.com/ | 
-| 06 | Motor de búsqueda personalizado de Google: 300 + Sitios de redes sociales: | https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:iyxger-cwug&q |
-| 07 | LINKEDIN. Motor de búsqueda personalizado de Linkedin: Extractor de Contactos: | https://cse.google.com/cse?cx=001394533911082033616:tm5y1wqwmme |
-| 08 | TWITTER. Servicio gratuito para obtener información detallada sobre un usuario de Twitter: | https://tinfoleak.com/ |
-| 09 | TWITTER. Servicio gratuito para Analizar los seguidores de un usuario de Twitter: | https://moz.com/followerwonk/analyze |
-| 10 | TWITTER. Servicio gratuito para Encontrar seguidores, Estadísticas de seguidores de cualquier usuario de Twitter: | https://socialbearing.com/ |
-| 11 | TWITTER. Servicio gratuito para el Análisis de Twitter sobre cualquier perfil público de Twitter:: | https://foller.me/ |
-| 12 | TWITTER. Servicio gratuito para Visualizar todos los tweets de cualquier usuario de Twitter: | https://www.allmytweets.net/connect/ |
-| 13 | TELEGRAM. Directorio personalizado para Buscar canales, grupos y bots de Telegram: | https://telegramchannels.me/ |
+| 04 | Motor de búsqueda personalizado: Para redes sociales. (Búsque por menciones #, por usuarios y trends): | https://www.social-searcher.com/ | 
+| 05 | Motor de búsqueda personalizado de Google: 300 + Sitios de redes sociales: | https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:iyxger-cwug&q |
+| 06 | LINKEDIN. Motor de búsqueda personalizado de Linkedin: Extractor de Contactos: | https://cse.google.com/cse?cx=001394533911082033616:tm5y1wqwmme |
+| 07 | TWITTER. Servicio gratuito para obtener información detallada sobre un usuario de Twitter: | https://tinfoleak.com/ |
+| 08 | TWITTER. Servicio gratuito para Analizar los seguidores de un usuario de Twitter: | https://moz.com/followerwonk/analyze |
+| 09 | TWITTER. Servicio gratuito para Encontrar seguidores, Estadísticas de seguidores de cualquier usuario de Twitter: | https://socialbearing.com/ |
+| 10 | TWITTER. Servicio gratuito para el Análisis de Twitter sobre cualquier perfil público de Twitter:: | https://foller.me/ |
+| 11 | TWITTER. Servicio gratuito para Visualizar todos los tweets de cualquier usuario de Twitter: | https://www.allmytweets.net/connect/ |
+| 12 | TELEGRAM. Directorio personalizado para Buscar canales, grupos y bots de Telegram: | https://telegramchannels.me/ |
+| 13 | Motor de búsqueda personalizado de Google: TELEGAGO. Especialmente para Telegram:| https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg#gsc.tab=0| 
 | 14 | TIKTOK. Recurso gratuito para extraer la fecha de creación de video en Tiktok en formato UTC: |https://bellingcat.github.io/tiktok-timestamp/|
 | 15 | TIKTOK. Recurso gratuito para extraer la fecha de creación de video en Tiktok en formato UTC-5 (Zona Horaria de Perú): |https://manuelbot59.github.io/tiktok-DatePeru/|
 | 16 | TIKTOK. Servicio gratuito para extraer información general de una cuenta de usuario en TikTok: |https://tokcount.com/|
