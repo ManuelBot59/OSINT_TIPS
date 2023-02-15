@@ -12,6 +12,7 @@
   - [TIKTOK](#tiktok)
   - [DOCUMENTS](#documents)
   - [WEB SITES](#web-sites)
+  - [CACHÉ](#cache)
 
 ## WEBS CAM
 | NAME  | DESCRIPCIÓN | LINK |
@@ -62,24 +63,23 @@
 | DEDIGGER | Custom search engine: To find public files in Google Drive| https://www.dedigger.com/#gsc.tab=0| 
 | FAGANFINDER | Custom search engine: To locate different types of files online | http://www.faganfinder.com/filetype/ | 
 
-# WEB SITES
+## WEB SITES
 | NAME  | DESCRIPCIÓN | LINK |
 | ------------- | ------------- |------------- |
+| Web Resource Manuelbot - Perú | #OSINT. Web resource that contains a collection of official and free websites for Osint Research in PERU | https://manuelbot59.github.io/ManuelOsint/ManuelBot59.html|
+| RESTOREPHOTOS | Free Web Resource for Restoring Old Photos Using AI for Everyone |https://www.restorephotos.io/|
+| WATERMARKER REMOVER | Free Web Resource to Remove Watermark from Any Image |https://www.watermarkremover.io/es/upload|
+| Custom search engine | To know if a fraudulent website | https://desenmascara.me/|
 
-
-
-
-| 24 | #OSINT. Recurso web que contiene una colección de sitios webs oficiales y libres para la Investigación Osint en PERÚ: | https://manuelbot59.github.io/ManuelOsint/ManuelBot59.html|
-| 25 | Recurso web gratuito para la Restauración de fotos antiguas usando IA para todos: |https://www.restorephotos.io/|
-| 26 | Recurso web gratuito para Eliminar la marca de agua de cualquier imagen: |https://www.watermarkremover.io/es/upload|
-| 27 | Motor de búsqueda personalizado: Para saber si un sitio web fraudulento: | https://desenmascara.me/|
-| |**CACHÉ:** |
-| 28 | Motor de búsqueda personalizado: Obtener la página en caché de cualquier URL de varias fuentes: | http://www.cachedpages.com/|
-| 29 | Motor de búsqueda personalizado: Obtener el caché de Google para cualquier página en Internet: | https://cachedview.com/|
-| 30 | Motor de búsqueda personalizado: Para explorar más de 782 mil millones de páginas web guardadas a lo largo del tiempo:| https://web.archive.org/|
-| 31 | Motor de búsqueda personalizado: Para Visualizar los sitios web que a la fecha han sido víctimas por ataques de Defacements:| http://zone-h.org/archive|
-| 32 | Servicio gratuito para Visualizar todas las Descargas y distribuciones de torrents realizadas por IP:| https://iknowwhatyoudownload.com/en/peer/|
-| 33 | Servicio gratuito para Buscar datos de amenazas en tiempo real por IP, dominio o propietario de la red.:| https://talosintelligence.com/|
+## CACHE
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| CACHED PAGES | Custom search engine to Get cached page of any URL from various sources | http://www.cachedpages.com/|
+|CACHED VIEW | Get Google cache for any page on the Internet | https://cachedview.com/|
+| WEB ARCHIVE | Personalized search engine: To explore more than 782 billion web pages saved over time | https://web.archive.org/|
+| ZONE-H | Personalized search engine: To View the websites that to date have been victims of Defacements attacks| http://zone-h.org/archive|
+| TORRENTS IP | Free service to view all torrent downloads and distributions made by IP| https://iknowwhatyoudownload.com/en/peer/|
+| TALOS INTELLIGENCE | Free service to Search real-time threat data by IP, domain or network owner| https://talosintelligence.com/|
 | 34 | Servicio gratuito para Desencriptar textos Hash:| https://crackstation.net/ |
 | 35 | Servicio gratuito para Desencriptar textos Hash (MD5, SHA1, MySQL, otros):| https://hashes.com/es/decrypt/hash|
 | 36 | Motor de búsqueda personalizado: Para verificar las direcciones de correo electrónico:|https://www.verifyemailaddress.org/|
