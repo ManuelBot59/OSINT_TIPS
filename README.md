@@ -1,8 +1,8 @@
 ## Hola! os comparto Algunos #OSINT_TIPS para sus excelentes investigaciones en fuentes abiertas (#OSINT)
-## Hello! I share some #OSINT_TIPS for your excellent research in open sources (#OSINT)
+#### Hello! I share some #OSINT_TIPS for your excellent research in open sources (#OSINT)
 
 ## Tabla de contenidos
-## Table of Contents
+#### Table of Contents
 
 - [WEBS CAMS](#webs-cam)
 - [SOCIAL NETWORKS](#social-networks)
@@ -13,6 +13,14 @@
   - [DOCUMENTS](#documents)
   - [WEB SITES](#web-sites)
   - [CACHÉ](#cache)
+  - [SEARCH ENGINES WITH AI](#search-engines-with-ai)
+  - [USERNAMES](#usernames)
+  - [LINK SHORTENERS](#link-shorteners)
+  - [TELEPHONE NUMBERS](#telephone-numbers)
+  - [CRYPTOCURRENCIES](#cryptocurrencies)
+  - [MAPS](#maps)
+  - [JOURNALS](#journals)
+  - [BONUS THREADS OSINT WITH MANUELBOT](#bonus-threads-osint-with-manuelbot)
 
 ## WEBS CAM
 | NAME  | DESCRIPCIÓN | LINK |
@@ -80,36 +88,62 @@
 | ZONE-H | Personalized search engine: To View the websites that to date have been victims of Defacements attacks| http://zone-h.org/archive|
 | TORRENTS IP | Free service to view all torrent downloads and distributions made by IP| https://iknowwhatyoudownload.com/en/peer/|
 | TALOS INTELLIGENCE | Free service to Search real-time threat data by IP, domain or network owner| https://talosintelligence.com/|
-| 34 | Servicio gratuito para Desencriptar textos Hash:| https://crackstation.net/ |
-| 35 | Servicio gratuito para Desencriptar textos Hash (MD5, SHA1, MySQL, otros):| https://hashes.com/es/decrypt/hash|
-| 36 | Motor de búsqueda personalizado: Para verificar las direcciones de correo electrónico:|https://www.verifyemailaddress.org/|
-| 37 | Motor de búsqueda personalizado: Para validar las direcciones de correo electrónico:|https://www.somorr.com/|
-| 38 | Motor de búsqueda personalizado: Para Búsqueda inversa de correo electrónico:|https://thatsthem.com/reverse-email-lookup|
-| 39 | Herramienta gratuita de verificación de direcciones de correo electrónico:|https://tools.emailhippo.com/|
-| 40 | Servicio gratutito para encontrar y verificar direcciones de correo electrónico profesionales: |https://hunter.io/|
-| |**BUSCADORES CON IA:** |
-| 41 | Motor de búsqueda personalizado con incorporación de redes neuronales (IA) que responde preguntas:|https://www.perplexity.ai/|
-| 42 | Motor de búsqueda personalizado con integración de IA: |https://chat.openai.com/chat|
-| |**USERNAMES:** |
-| 43 | #OSINT. Herramienta para buscar rápidamente cuentas por nombre de usuario en más de 574 sitios electrónicos:|https://blackbird-osint.herokuapp.com/|
-| 44 | #OSINT. Herramienta que le permite enumerar nombres de usuario en muchos sitios web Servicio gratuito:|https://whatsmyname.app/|
-| 45 | #OSINT. Herramienta que le permite consultar en más de 30 dominios y más de 90 redes sociales:|https://namechk.com/|
-| |**ACORTADORES DE ENLACE:** |
-| 46 | Servicio gratutito para Investigar Acortadores de enlaces:|https://unshorten.it/|
-| 47 | Servicio gratutito: Expandir y verificar todos sus enlaces acortados |https://checkshorturl.com/|
-| |**NÚMEROS TELEFÓNICOS:** |
-| 48 | #OSINT. Herramienta para la Recopilación de información avanzada para números de teléfonos internacional:|https://demo.phoneinfoga.crvx.fr/#/|
-| 49 | Directorio para búsqueda internacional de números de teléfonos inversos:|https://www.truecaller.com|
-| 50 | Directorio para la Búsqueda inversa de teléfonos:|https://www.reversephonelookup.com/|
-| 51 | Directorio para la Búsqueda inversa de números de teléfono:|https://www.zlookup.com/|
-| 52 | Servicio gratuito de permutador de correo electrónico: |http://metricsparrow.com/toolkit/email-permutator/|
+| CRACKSTATION | Free service to decrypt Hash texts| https://crackstation.net/ |
+| HASHES | Free service to Decrypt Hash texts (MD5, SHA1, MySQL, others)| https://hashes.com/es/decrypt/hash|
+| VERIFY EMAIL ADDRESS | Personalized search engine To verify email addresses|https://www.verifyemailaddress.org/|
+| SOMORR | Custom search engine: To validate email addresses|https://www.somorr.com/|
+| THASTHEM | Custom Search Engine: For Email Reverse Search|https://thatsthem.com/reverse-email-lookup|
+| EMAIL HIPPO | Free email address verification tool |https://tools.emailhippo.com/|
+| HUNTER IO | Free service to find and verify professional email addresses |https://hunter.io/|
+
+## SEARCH ENGINES WITH AI
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| PERPLEXITY | Custom search engine with embedded neural networks (AI) that answers questions|https://www.perplexity.ai/|
+| OPEN AI | Custom search engine with AI integration |https://chat.openai.com/chat|
+
+## USERNAMES
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| BLACKBIRD | #OSINT. Tool to quickly find accounts by username on over 574 websites | https://blackbird-osint.herokuapp.com/|
+| WHATSMYNAME | #OSINT. Tool that allows you to list usernames on many websites Free service|https://whatsmyname.app/|
+| NAMECHK | #OSINT. Tool that allows you to consult in more than 30 domains and more than 90 social networks |https://namechk.com/|
+
+## LINK SHORTENERS
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| UNSHORTEN | Free Service to Research Link Shorteners |https://unshorten.it/|
+| CHECKSHORT URL | Free service: Expand and check all your shortened links |https://checkshorturl.com/|
+
+## TELEPHONE NUMBERS
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| PHONEINFOGA | #OSINT. Tool for the Collection of advanced information for international telephone numbers |https://demo.phoneinfoga.crvx.fr/#/|
+| TRUECALLER | Directory for international search of reverse telephone numbers|https://www.truecaller.com|
+| REVERSE PHONE LOOKUP | Reverse Phone Lookup Directory|https://www.reversephonelookup.com/|
+| ZLOOKUP | Directory for Reverse Phone Number Lookup |https://www.zlookup.com/|
+| EMAIL PERMUTATOR | Free email exchange service |http://metricsparrow.com/toolkit/email-permutator/|
 | |**CRIPTOMONEDAS:** |
-| 53 | Servicio gratuito para Buscar información por Blockchain, Transacciones, Wallets y cadena de Bloques:|https://www.blockchain.com/explorer|
-| 54 | Servicio gratuito para Buscar información por BitCoins:|https://mempool.space/es/|
-| |**MAPAS:** |
-| 55 | Servicio gratuito para Obtener información Sobre el Mapa del Mundo:|https://www.openstreetmap.org/|
-| 56 | Servicio gratuito para Obtener información sobre usuarios activos en SnaptChat alrededor del Mundo por Mapas:|https://map.snapchat.com/|
-| |**REVISTAS:** |
-| 57 | Directorio Directorio gratuito (#AllYouCanRed), que contiene una mayor base de datos mundial de revistas, periódicos y sitios de noticias importantes:|https://www.allyoucanread.com/|
-| 58 | Servicio gratuito para visualizar revistas, periódicos y sitios de noticias importantes de Perú 🇵🇪 :|https://www.rcrperu.com/portadas|
-| 59 | PRÓXIMAMENTE!||
+
+## CRYPTOCURRENCIES
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| BLOCKCHAIN | Free service to search for information by Blockchain, Transactions, Wallets and Blockchain |https://www.blockchain.com/explorer|
+| MEMPOOL SPACE | Free Service to Search Information for BitCoins |https://mempool.space/es/|
+
+## MAPS
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| OPEN STREET MAP | Free Service to Obtain Information About the World Map |https://www.openstreetmap.org/|
+| MAP SNAPCHAT | Free service to Get information about active users in SnapChat around the World by Maps |https://map.snapchat.com/|
+
+## JOURNALS
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| ALLYOUCANREAD | Directory Free Directory (#AllYouCanRed), containing the world's largest database of major magazines, newspapers and news sites |https://www.allyoucanread.com/|
+| RCR PERÚ | Free service to view important magazines, newspapers and news sites in Peru 🇵🇪 |https://www.rcrperu.com/portadas|
+
+## BONUS THREADS OSINT WITH MANUELBOT
+
+
+## SOON!
