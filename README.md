@@ -166,9 +166,10 @@
 | INSTAGRAM OSINT 1| Compilation of Repositories, tools and extensions to obtain information in Instagram | https://twitter.com/ManuelBot59/status/1598699969967431683 |
 | INSTAGRAM OSINT 2 | 2nd collection of free services to view posts from an Instagram profile without having to be registered or have an account on the aforementioned social network. | https://twitter.com/ManuelBot59/status/1605009421985267717 |
 | TWITTER OSINT | Analyze twitter user accounts through dashboard | https://twitter.com/ManuelBot59/status/1578035073244626944 |
+| MASTODON OSINT | I would like to comment and share some techniques or tools for #Mastodon, which to date have been making my life easier as #OsintAnalyst for the successful development of many investigations. | https://twitter.com/ManuelBot59/status/1616100490776821763 |
 | SHORT LINKS | Verification techniques and analysis of short links. | https://twitter.com/ManuelBot59/status/1579628732469628929 |
 | LIST EXTENSIONES P1 | #OSINT. Part 01. Favorite Extensions List (For Mozilla Firefox & Google Chrome) of Top Tools for OSINT Researchers and Analysts. | https://twitter.com/ManuelBot59/status/1611133361715650561 |
-
+| LIST EXTENSIONES P2 | #OSINT. Part 02. List of favorite extensions (Especially for Google Chrome) of some main Tools for OSINT researchers and analysts. | https://twitter.com/ManuelBot59/status/1613922214000082945 |
 
 
 ## BONUS OSINT RESEARCH THREADS WITH MANUELBOT
@@ -183,8 +184,9 @@
 | RESEARCH PHONE NUMBERS IN LINKEDIN | The power of data for #OSINT: Investigating Linkedin users, who, through comments, have been publicly exposing their emails linked to the different SOCIAL NETWORKS | https://twitter.com/ManuelBot59/status/1609395483495079937 |
 | RESEARCH PHONE NUMBERS SPAM | #OSINT: Investigating "Cyberscammer", who through a telephone number, would be dedicated to sending SPAM and SMISHING, to capture victims and after that commit various illegal activities. | https://twitter.com/ManuelBot59/status/1607862875829460992 |
 | RESEARCH USER IN FACEBOOK | The power of data for #OSINT: Investigating and exposing a Facebook user, who, through publications, would be providing "illegal" data removal services on various digital platforms | https://twitter.com/ManuelBot59/status/1612103023206989830 |
-
-
+| RESEARCH FAKE NEWS | The power of data for #OSINT. Investigating FakeNews publications that have been spreading on various social networks due to the great social-political situation that has been taking place in Peru | https://twitter.com/ManuelBot59/status/1616924626353025025 |
+| RESEARCH PHISHING-SMISHING | Have you ever received a "data update" alert from one of your so-called banking entities? Do you wonder why those #Phishing messages really reach you? | https://twitter.com/ManuelBot59/status/1622243692495998977 |
+| RESEARCH USER POST ON FACEBOOK | The power of data for #OSINT. Investigating user post on Facebook, which has been shared, in which personal information of Peruvian citizens has been exposed | https://twitter.com/ManuelBot59/status/1623725948209098767 |
 
 ## BONUS OSINT TIPS WITH MANUELBOT
 | NAME  | DESCRIPCIÓN | LINK |
@@ -195,8 +197,9 @@
 ## BONUS OSINT VIDEOS WITH MANUELBOT
 | NAME  | DESCRIPCIÓN | LINK |
 | ------------- | ------------- |------------- |
-| OSINT APPLIED TO AWARENESS (SPANISH)| As part of the dissemination of information in relation to #Osint, on this occasion he accompanied us @AIBot_CdH, giving a presentation on "OSINT APPLIED TO AWARENESS" | https://www.youtube.com/watch?v=sJPt9HRgyrI&feature=youtu.be |
-| VIDEO OSINT CYBER INTELLIGENCE (SPANISH)| Introductory video of the OSINT Cyber Intelligence Workshop with Manuel Bot | https://www.youtube.com/watch?v=ogW61YT6F7w&feature=youtu.be |
+| OSINT APPLIED TO AWARENESS (SPANISH)| As part of the dissemination of information in relation to #Osint, on this occasion he accompanied us @AIBot_CdH, giving a presentation on "OSINT APPLIED TO AWARENESS" | https://www.youtube.com/watch?v=sJPt9HRgyrI |
+| VIDEO OSINT CYBER INTELLIGENCE (SPANISH)| Introductory video of the OSINT Cyber Intelligence Workshop with Manuel Bot | https://www.youtube.com/watch?v=ogW61YT6F7w |
+| INTERVIEW WITH A CYBER INTELLIGENCE ANALYST (SPANISH) | Interview with a Cyber Intelligence Analyst Manuel Bot in La Jaula del N00b | https://www.youtube.com/watch?v=yi0C9QHj7H4 |
 
 ## CONTRIBUTING
 Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
