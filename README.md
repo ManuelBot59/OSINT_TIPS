@@ -28,29 +28,28 @@
 - [CONTACT ME](#contact-me)
 
 ## WEBS CAM
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
-| |**CÁMARAS WEB:** |
 | Google custom search engine | To search webcams all over the world | https://cipher387.github.io/webcamcse/  |
 | Custom search engine |  Regional webcams for (almost) every place on earth | https://www.skylinewebcams.com/ | 
 | Custom directory | Web cameras, live broadcasts from Airports around the world 24/7 | https://airportwebcams.net/airport-webcams-by-country/| 
 
 ## SOCIAL NETWORKS
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | Custom search engine | Search by mentions #, by users and trends | https://www.social-searcher.com/ | 
 | Google custom search engine | More than 300 Social Networking Sites | https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:iyxger-cwug&q |
 ## TELEGRAM
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | Custom directory |  Search Telegram channels, groups and bots | https://telegramchannels.me/ |
 | TELEGAGO | Google custom search engine | https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg#gsc.tab=0 | 
 ## LINKEDIN
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | Contact Extractor | Google custom search engine | https://cse.google.com/cse?cx=001394533911082033616:tm5y1wqwmme |
 ## TWITTER
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | TINFOLEAK | Free service to obtain detailed information about a Twitter user | https://tinfoleak.com/ |
 | FOLLOWER WONK | Free service to analyze the followers of a Twitter user | https://moz.com/followerwonk/analyze |
@@ -59,7 +58,7 @@
 | ALL MY TWEETS | Free service to View all the tweets of any Twitter user | https://www.allmytweets.net/connect/ |
 
 ## TIKTOK
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | TIKTOK TIMESTAMP UTC-0 | Free Resource to Extract TikTok Video Creation Date in UTC Format |https://bellingcat.github.io/tiktok-timestamp/|
 | TIKTOK TIMESTAMP UTC-5 (PERÚ) | Free resource to extract the video creation date on TikTok in UTC-5 format (Peru Time Zone) |https://manuelbot59.github.io/tiktok-DatePeru/|
@@ -67,7 +66,7 @@
 | FIND TIKTOK USER ID |  Free service to Obtain the ID of a user account on TikTok| https://www.instafollowers.co/find-tiktok-user-id|
 
 ## DOCUMENTS
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | Google custom search engine | over 250 video sharing sites | https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:hn5bcrszfhe&q|
 | Google custom search engine | Search for file sharing sites| https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:hn5bcrszfhe&q| 
@@ -77,7 +76,7 @@
 | FAGANFINDER | Custom search engine: To locate different types of files online | http://www.faganfinder.com/filetype/ | 
 
 ## WEB SITES
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | Web Resource Manuelbot - Perú | #OSINT. Web resource that contains a collection of official and free websites for Osint Research in PERU | https://manuelbot59.github.io/ManuelOsint/ManuelBot59.html|
 | RESTOREPHOTOS | Free Web Resource for Restoring Old Photos Using AI for Everyone |https://www.restorephotos.io/|
@@ -86,7 +85,7 @@
 | RANSOM WIKI | Search for the company or person by name in the database of ransomware attack reports. | https://ransom.wiki/ |
 
 ## CACHE
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | CACHED PAGES | Custom search engine to Get cached page of any URL from various sources | http://www.cachedpages.com/|
 |CACHED VIEW | Get Google cache for any page on the Internet | https://cachedview.com/|
@@ -103,26 +102,26 @@
 | HUNTER IO | Free service to find and verify professional email addresses |https://hunter.io/|
 
 ## SEARCH ENGINES WITH AI
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | PERPLEXITY | Custom search engine with embedded neural networks (AI) that answers questions|https://www.perplexity.ai/|
 | OPEN AI | Custom search engine with AI integration |https://chat.openai.com/chat|
 
 ## USERNAMES
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | BLACKBIRD | #OSINT. Tool to quickly find accounts by username on over 574 websites | https://blackbird-osint.herokuapp.com/|
 | WHATSMYNAME | #OSINT. Tool that allows you to list usernames on many websites Free service|https://whatsmyname.app/|
 | NAMECHK | #OSINT. Tool that allows you to consult in more than 30 domains and more than 90 social networks |https://namechk.com/|
 
 ## LINK SHORTENERS
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | UNSHORTEN | Free Service to Research Link Shorteners |https://unshorten.it/|
 | CHECKSHORT URL | Free service: Expand and check all your shortened links |https://checkshorturl.com/|
 
 ## TELEPHONE NUMBERS
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | PHONEINFOGA | #OSINT. Tool for the Collection of advanced information for international telephone numbers |https://demo.phoneinfoga.crvx.fr/#/|
 | TRUECALLER | Directory for international search of reverse telephone numbers|https://www.truecaller.com|
@@ -131,25 +130,25 @@
 | EMAIL PERMUTATOR | Free email exchange service |http://metricsparrow.com/toolkit/email-permutator/|
 
 ## CRYPTOCURRENCIES
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | BLOCKCHAIN | Free service to search for information by Blockchain, Transactions, Wallets and Blockchain |https://www.blockchain.com/explorer|
 | MEMPOOL SPACE | Free Service to Search Information for BitCoins |https://mempool.space/es/|
 
 ## MAPS
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | OPEN STREET MAP | Free Service to Obtain Information About the World Map |https://www.openstreetmap.org/|
 | MAP SNAPCHAT | Free service to Get information about active users in SnapChat around the World by Maps |https://map.snapchat.com/|
 
 ## JOURNALS
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | ALLYOUCANREAD | Directory Free Directory (#AllYouCanRed), containing the world's largest database of major magazines, newspapers and news sites |https://www.allyoucanread.com/|
 | RCR PERÚ | Free service to view important magazines, newspapers and news sites in Peru 🇵🇪 |https://www.rcrperu.com/portadas|
 
 ## BONUS THREADS OSINT WITH MANUELBOT
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | PHONEINFOGA | VideoOsint: Collection of telephone number information with GoogleHacking through the PhoneInfoga v2.10.0 tool in Windows environment | https://twitter.com/ManuelBot59/status/1589271337054314496 |
 | PHONEINFOGA BONUS | Get Numverify and GoogleCSE Application Programming Interface (API KEY) keys to be used in the PhoneInfoga | https://twitter.com/ManuelBot59/status/1589957467014057988 |
@@ -163,7 +162,7 @@
 | GOOGLE CLOUD SHELL | As a result of all the #VideosOsint that I have done (about the execution and use of #ToolsOsint) executed in #GoogleCloudShell; is that I will open Thread, explaining a bit about this shell. | https://twitter.com/ManuelBot59/status/1590030615826821122 |
 | OSINT RESOURCES | 12 free OSINT resources (books, manuals, presentations and research documents translated into Spanish) to go from zero to hero. | https://twitter.com/ManuelBot59/status/1594759610589659138 |
 | OSINT RESOURCES 2 | #OSINT Updated compilation of resources for Investigations, especially for analysts and researchers🔎 | https://twitter.com/ManuelBot59/status/1595235459466231808 |
-| INSTAGRAM OSINT 1| Compilation of Repositories, tools and extensions to obtain information in Instagram | https://twitter.com/ManuelBot59/status/1598699969967431683 |
+| INSTAGRAM OSINT 1| Compilation of Repositories, tools and extensions to obtain information in Instagram |https://twitter.com/ManuelBot59/status/1598699969967431683|
 | INSTAGRAM OSINT 2 | 2nd collection of free services to view posts from an Instagram profile without having to be registered or have an account on the aforementioned social network. | https://twitter.com/ManuelBot59/status/1605009421985267717 |
 | TWITTER OSINT | Analyze twitter user accounts through dashboard | https://twitter.com/ManuelBot59/status/1578035073244626944 |
 | MASTODON OSINT | I would like to comment and share some techniques or tools for #Mastodon, which to date have been making my life easier as #OsintAnalyst for the successful development of many investigations. | https://twitter.com/ManuelBot59/status/1616100490776821763 |
@@ -171,9 +170,8 @@
 | LIST EXTENSIONES P1 | #OSINT. Part 01. Favorite Extensions List (For Mozilla Firefox & Google Chrome) of Top Tools for OSINT Researchers and Analysts. | https://twitter.com/ManuelBot59/status/1611133361715650561 |
 | LIST EXTENSIONES P2 | #OSINT. Part 02. List of favorite extensions (Especially for Google Chrome) of some main Tools for OSINT researchers and analysts. | https://twitter.com/ManuelBot59/status/1613922214000082945 |
 
-
 ## BONUS OSINT RESEARCH THREADS WITH MANUELBOT
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | RESEARCH PUBLIC DOCUMENTS | #OSINT: Research initiated from a Public Document, with the use of techniques, resources and tools, which synthesize and deepen the work of an #OsintAnalyst🔎. | https://twitter.com/ManuelBot59/status/1596976756212531200 |
 | RESEARCH PHONENUMBERS | #OSINT: Analysis of research on telephone numbers (#WhatsappDataBreach), disseminated on #Telegram channels, with the use of techniques and tools to obtain information | https://twitter.com/ManuelBot59/status/1597968412239892480 |
@@ -189,13 +187,13 @@
 | RESEARCH USER POST ON FACEBOOK | The power of data for #OSINT. Investigating user post on Facebook, which has been shared, in which personal information of Peruvian citizens has been exposed | https://twitter.com/ManuelBot59/status/1623725948209098767 |
 
 ## BONUS OSINT TIPS WITH MANUELBOT
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | GOOGLE SHEETS| #TipManuelBot: Hello! I bring you a tip to copy data from a protected Google Sheets Document! (Document that cannot be copied or downloaded due to document access settings)| https://twitter.com/ManuelBot59/status/1602082141642317829 |
 | QUALITIES| 10 Qualities of a Cyber Intelligence Analyst especially for those who want to start in this world of obtaining information in Open Sources (OSINT) | https://twitter.com/ManuelBot59/status/1603429156024422402 |
 
 ## BONUS OSINT VIDEOS WITH MANUELBOT
-| NAME  | DESCRIPCIÓN | LINK |
+| NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | OSINT APPLIED TO AWARENESS (SPANISH)| As part of the dissemination of information in relation to #Osint, on this occasion he accompanied us @AIBot_CdH, giving a presentation on "OSINT APPLIED TO AWARENESS" | https://www.youtube.com/watch?v=sJPt9HRgyrI |
 | VIDEO OSINT CYBER INTELLIGENCE (SPANISH)| Introductory video of the OSINT Cyber Intelligence Workshop with Manuel Bot | https://www.youtube.com/watch?v=ogW61YT6F7w |
