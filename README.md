@@ -10,17 +10,21 @@
   - [LINKEDIN](#linkedin)
   - [TWITTER](#twitter)
   - [TIKTOK](#tiktok)
-  - [DOCUMENTS](#documents)
-  - [WEB SITES](#web-sites)
+- [DOCUMENTS](#documents)
+- [WEB SITES](#web-sites)
   - [CACHÉ](#cache)
   - [SEARCH ENGINES WITH AI](#search-engines-with-ai)
-  - [USERNAMES](#usernames)
   - [LINK SHORTENERS](#link-shorteners)
-  - [TELEPHONE NUMBERS](#telephone-numbers)
-  - [CRYPTOCURRENCIES](#cryptocurrencies)
   - [MAPS](#maps)
   - [JOURNALS](#journals)
-  - [BONUS THREADS OSINT WITH MANUELBOT](#bonus-threads-osint-with-manuelbot)
+- [USERNAMES](#usernames)
+- [TELEPHONE NUMBERS](#telephone-numbers)
+- [CRYPTOCURRENCIES](#cryptocurrencies)
+- [BONUS THREADS OSINT WITH MANUELBOT](#bonus-threads-osint-with-manuelbot)
+- [BONUS OSINT RESEARCH THREADS WITH MANUELBOT](#bonus-osint-research-threads-with-manuelbot)
+- [BONUS OSINT TIPS WITH MANUELBOT](#bonus-osint-tips-with-manuelbot)
+- [CONTRIBUTING](#contributing)
+- [CONTACT ME](#contact-me)
 
 ## WEBS CAM
 | NAME  | DESCRIPCIÓN | LINK |
@@ -123,7 +127,6 @@
 | REVERSE PHONE LOOKUP | Reverse Phone Lookup Directory|https://www.reversephonelookup.com/|
 | ZLOOKUP | Directory for Reverse Phone Number Lookup |https://www.zlookup.com/|
 | EMAIL PERMUTATOR | Free email exchange service |http://metricsparrow.com/toolkit/email-permutator/|
-| |**CRIPTOMONEDAS:** |
 
 ## CRYPTOCURRENCIES
 | NAME  | DESCRIPCIÓN | LINK |
@@ -144,6 +147,49 @@
 | RCR PERÚ | Free service to view important magazines, newspapers and news sites in Peru 🇵🇪 |https://www.rcrperu.com/portadas|
 
 ## BONUS THREADS OSINT WITH MANUELBOT
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| PHONEINFOGA | VideoOsint: Collection of telephone number information with GoogleHacking through the PhoneInfoga v2.10.0 tool in Windows environment | https://twitter.com/ManuelBot59/status/1589271337054314496 |
+| PHONEINFOGA BONUS | Get Numverify and GoogleCSE Application Programming Interface (API KEY) keys to be used in the PhoneInfoga | https://twitter.com/ManuelBot59/status/1589957467014057988 |
+| SELLERFB | VideoOsint: Know the commercial user profile and obtain all their publications (made in the Facebook Marketplace) in Windows environment | https://twitter.com/ManuelBot59/status/1585984487111856128 |
+| BLACKBIRD | VideoOsint: #OSINT tool to search accounts by name on 574 websites in GoogleCloudShell | https://twitter.com/ManuelBot59/status/1591066252113764352 |
+| REVERSE IMAGE SEARCH | VideoOsint: #OSINT Analyze Youtube, Facebook or Twitter links for investigations🔎 with Chrome extensions. | https://twitter.com/ManuelBot59/status/1593108499349008384 |
+| EXIFTOOLS METADATA | VideoOsint: #OSINT Extract information (Data from the data) from files, documents, images in general with the #ExifTool Tool in the Gui Graphic interface for Windows | https://twitter.com/ManuelBot59/status/1587837761071251457 |
+| OSINT PHONENUMBERS | Thread of Tools and methods for investigations by emails. | https://twitter.com/ManuelBot59/status/1592732079577759744 |
+| GOOGLE CLOUD SHELL | As a result of all the #VideosOsint that I have done (about the execution and use of #ToolsOsint) executed in #GoogleCloudShell; is that I will open Thread, explaining a bit about this shell. | https://twitter.com/ManuelBot59/status/1590030615826821122 |
+| OSINT RESOURCES | 12 free OSINT resources (books, manuals, presentations and research documents translated into Spanish) to go from zero to hero. | https://twitter.com/ManuelBot59/status/1594759610589659138 |
+| OSINT RESOURCES 2 | #OSINT Updated compilation of resources for Investigations, especially for analysts and researchers🔎 | https://twitter.com/ManuelBot59/status/1595235459466231808 |
+| INSTAGRAM OSINT 1| Compilation of Repositories, tools and extensions to obtain information in Instagram | https://twitter.com/ManuelBot59/status/1598699969967431683 |
+| INSTAGRAM OSINT 2 | 2nd collection of free services to view posts from an Instagram profile without having to be registered or have an account on the aforementioned social network. | https://twitter.com/ManuelBot59/status/1605009421985267717 |
+| SHORT LINKS | Verification techniques and analysis of short links. | https://twitter.com/ManuelBot59/status/1579628732469628929 |
 
+## BONUS OSINT RESEARCH THREADS WITH MANUELBOT
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| RESEARCH PUBLIC DOCUMENTS | #OSINT: Research initiated from a Public Document, with the use of techniques, resources and tools, which synthesize and deepen the work of an #OsintAnalyst🔎. | https://twitter.com/ManuelBot59/status/1596976756212531200 |
+| RESEARCH PHONENUMBERS | #OSINT: Analysis of research on telephone numbers (#WhatsappDataBreach), disseminated on #Telegram channels, with the use of techniques and tools to obtain information | https://twitter.com/ManuelBot59/status/1597968412239892480 |
+| RESEARCH FINGERPRINT | The power of #OSINT: This time I will tell you about an investigation that I have carried out on a colleague (from the School), until I managed to contact him; All through obtaining your #Fingerprint. | https://twitter.com/ManuelBot59/status/1599996851595358208 |
+| RESEARCH ELECTRONIC TICKET | The power of #OSINT: Obtaining information found from an electronic flight ticket (Published through Facebook stories). Tip: Never share too much information on social networks. #Fingerprint. | https://twitter.com/ManuelBot59/status/1601395685869363200 |
+
+## BONUS OSINT TIPS WITH MANUELBOT
+
+
+
+
+
+
+## CONTRIBUTING
+Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## CONTACT ME
+
+- Twitter : [@ManuelBot59](https://twitter.com/ManuelBot59)  
+- Youtube : [@ManuelBot59](https://www.youtube.com/@ManuelBot59)  
+- Github : [@ManuelBot59](https://github.com/ManuelBot59)
+- Telegram Me : [@ManuelBot](https://t.me/ManuelBot59)  
+- Telegram Channel : [@OsintManuelBot](https://t.me/OsintManuelBot59)  
+- Telegram Group : [@OsintChatManuelBot](https://t.me/OsintChatManuelBot)
+- Personal Website : [@Manuel Bot](https://manuelbot59.github.io/ManuelOsint/)
 
 ## SOON!
+
