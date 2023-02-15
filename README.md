@@ -1,34 +1,74 @@
 ## Hola! os comparto Algunos #OSINT_TIPS para sus excelentes investigaciones en fuentes abiertas (#OSINT)
+## Hello! I share some #OSINT_TIPS for your excellent research in open sources (#OSINT)
 
-| TIPS  | DESCRIPCIÓN | ENLACE |
+## Tabla de contenidos
+## Table of Contents
+
+- [WEBS CAMS](#webs-cam)
+- [SOCIAL NETWORKS](#social-networks)
+  - [TELEGRAM](#telegram)
+  - [LINKEDIN](#linkedin)
+  - [TWITTER](#twitter)
+  - [TIKTOK](#tiktok)
+  - [DOCUMENTS](#documents)
+  - [WEB SITES](#web-sites)
+
+## WEBS CAM
+| NAME  | DESCRIPCIÓN | LINK |
 | ------------- | ------------- |------------- |
 | |**CÁMARAS WEB:** |
-| 01 | Motor de búsqueda personalizado de Google: Para buscar cámaras web en todo el mundo: | https://cipher387.github.io/webcamcse/  |
-| 02 | Buscador personalizado de cámaras web regionales para (casi) cada lugar de la tierra: | https://www.skylinewebcams.com/ | 
-| 03 | Directorio personalizado de cámaras web, transmisiones en vivo de Aeropuertos en todo el mundo 24/7:| https://airportwebcams.net/airport-webcams-by-country/| 
-| |**REDES SOCIALES:** |
-| 04 | Motor de búsqueda personalizado: Para redes sociales. (Búsque por menciones #, por usuarios y trends): | https://www.social-searcher.com/ | 
-| 05 | Motor de búsqueda personalizado de Google: 300 + Sitios de redes sociales: | https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:iyxger-cwug&q |
-| 06 | LINKEDIN. Motor de búsqueda personalizado de Linkedin: Extractor de Contactos: | https://cse.google.com/cse?cx=001394533911082033616:tm5y1wqwmme |
-| 07 | TWITTER. Servicio gratuito para obtener información detallada sobre un usuario de Twitter: | https://tinfoleak.com/ |
-| 08 | TWITTER. Servicio gratuito para Analizar los seguidores de un usuario de Twitter: | https://moz.com/followerwonk/analyze |
-| 09 | TWITTER. Servicio gratuito para Encontrar seguidores, Estadísticas de seguidores de cualquier usuario de Twitter: | https://socialbearing.com/ |
-| 10 | TWITTER. Servicio gratuito para el Análisis de Twitter sobre cualquier perfil público de Twitter:: | https://foller.me/ |
-| 11 | TWITTER. Servicio gratuito para Visualizar todos los tweets de cualquier usuario de Twitter: | https://www.allmytweets.net/connect/ |
-| 12 | TELEGRAM. Directorio personalizado para Buscar canales, grupos y bots de Telegram: | https://telegramchannels.me/ |
-| 13 | Motor de búsqueda personalizado de Google: TELEGAGO. Especialmente para Telegram:| https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg#gsc.tab=0| 
-| 14 | TIKTOK. Recurso gratuito para extraer la fecha de creación de video en Tiktok en formato UTC: |https://bellingcat.github.io/tiktok-timestamp/|
-| 15 | TIKTOK. Recurso gratuito para extraer la fecha de creación de video en Tiktok en formato UTC-5 (Zona Horaria de Perú): |https://manuelbot59.github.io/tiktok-DatePeru/|
-| 16 | TIKTOK. Servicio gratuito para extraer información general de una cuenta de usuario en TikTok: |https://tokcount.com/|
-| 17 | TIKTOK. Servicio gratuito para Obtener el ID de una cuenta de usuario en TikTok:| https://www.instafollowers.co/find-tiktok-user-id|
-| |**DOCUMENTOS:** |
-| 18 | Motor de búsqueda personalizado de Google: más de 250 sitios para compartir videos: | https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:hn5bcrszfhe&q|
-| 19 | Motor de búsqueda personalizado de Google: Búsqueda de sitios para compartir archivos:| https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:hn5bcrszfhe&q| 
-| 20 | Motor de búsqueda especialmente para recursos web académicos (Documentos, tesis, proyectos públicos, etc):| https://www.base-search.net/| 
-| 21 | Motor de búsqueda personalizado de Google: Para la búsqueda de documentos en Google Drive:| https://cse.google.com/cse?cx=f466f6ea4886845d1| 
-| 22 | Motor de búsqueda personalizado: Para encontrar archivos públicos en Google Drive:| https://www.dedigger.com/#gsc.tab=0| 
-| 23 | Motor de búsqueda personalizado: Para localizar diferentes tipos de archivos en línea:| http://www.faganfinder.com/filetype/ | 
-| |**SITIOS ELECTRÓNICOS:** |
+| Google custom search engine | To search webcams all over the world | https://cipher387.github.io/webcamcse/  |
+| Custom search engine |  Regional webcams for (almost) every place on earth | https://www.skylinewebcams.com/ | 
+| Custom directory | Web cameras, live broadcasts from Airports around the world 24/7 | https://airportwebcams.net/airport-webcams-by-country/| 
+
+## SOCIAL NETWORKS
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| Custom search engine | Search by mentions #, by users and trends | https://www.social-searcher.com/ | 
+| Google custom search engine | More than 300 Social Networking Sites | https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:iyxger-cwug&q |
+## TELEGRAM
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| Custom directory |  Search Telegram channels, groups and bots | https://telegramchannels.me/ |
+| TELEGAGO | Google custom search engine | https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg#gsc.tab=0 | 
+## LINKEDIN
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| Contact Extractor | Google custom search engine | https://cse.google.com/cse?cx=001394533911082033616:tm5y1wqwmme |
+## TWITTER
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| TINFOLEAK | Free service to obtain detailed information about a Twitter user | https://tinfoleak.com/ |
+| FOLLOWER WONK | Free service to analyze the followers of a Twitter user | https://moz.com/followerwonk/analyze |
+| SOCIAL BEARING | Free service to Find followers, Statistics of followers of any Twitter user | https://socialbearing.com/ |
+| FOLLER ME | Free service to Find followers, Statistics of followers of any Twitter user | https://foller.me/ |
+| ALL MY TWEETS | Free service to View all the tweets of any Twitter user | https://www.allmytweets.net/connect/ |
+
+## TIKTOK
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| TIKTOK TIMESTAMP UTC-0 | Free Resource to Extract TikTok Video Creation Date in UTC Format |https://bellingcat.github.io/tiktok-timestamp/|
+| TIKTOK TIMESTAMP UTC-5 (PERÚ) | Free resource to extract the video creation date on TikTok in UTC-5 format (Peru Time Zone) |https://manuelbot59.github.io/tiktok-DatePeru/|
+| TOKCOUNT | Free service to extract general information from a user account on TikTok |https://tokcount.com/|
+| FIND TIKTOK USER ID |  Free service to Obtain the ID of a user account on TikTok| https://www.instafollowers.co/find-tiktok-user-id|
+
+## DOCUMENTS
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| Google custom search engine | over 250 video sharing sites | https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:hn5bcrszfhe&q|
+| Google custom search engine | Search for file sharing sites| https://cse.google.com/cse?key=AIzaSyB2lwQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:hn5bcrszfhe&q| 
+| BASE SEARCH | especially for academic web resources (Documents, theses, public projects, etc.)| https://www.base-search.net/| 
+| Google custom search engine |  Para la búsqueda de documentos en Google Drive:| https://cse.google.com/cse?cx=f466f6ea4886845d1| 
+| DEDIGGER | Custom search engine: To find public files in Google Drive| https://www.dedigger.com/#gsc.tab=0| 
+| FAGANFINDER | Custom search engine: To locate different types of files online | http://www.faganfinder.com/filetype/ | 
+
+# WEB SITES
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+
+
+
+
 | 24 | #OSINT. Recurso web que contiene una colección de sitios webs oficiales y libres para la Investigación Osint en PERÚ: | https://manuelbot59.github.io/ManuelOsint/ManuelBot59.html|
 | 25 | Recurso web gratuito para la Restauración de fotos antiguas usando IA para todos: |https://www.restorephotos.io/|
 | 26 | Recurso web gratuito para Eliminar la marca de agua de cualquier imagen: |https://www.watermarkremover.io/es/upload|
