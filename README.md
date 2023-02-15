@@ -23,6 +23,7 @@
 - [BONUS THREADS OSINT WITH MANUELBOT](#bonus-threads-osint-with-manuelbot)
 - [BONUS OSINT RESEARCH THREADS WITH MANUELBOT](#bonus-osint-research-threads-with-manuelbot)
 - [BONUS OSINT TIPS WITH MANUELBOT](#bonus-osint-tips-with-manuelbot)
+- [BONUS OSINT VIDEOS WITH MANUELBOT](#bonus-osint-videos-with-manuelbot)
 - [CONTRIBUTING](#contributing)
 - [CONTACT ME](#contact-me)
 
@@ -82,6 +83,7 @@
 | RESTOREPHOTOS | Free Web Resource for Restoring Old Photos Using AI for Everyone |https://www.restorephotos.io/|
 | WATERMARKER REMOVER | Free Web Resource to Remove Watermark from Any Image |https://www.watermarkremover.io/es/upload|
 | Custom search engine | To know if a fraudulent website | https://desenmascara.me/|
+| RANSOM WIKI | Search for the company or person by name in the database of ransomware attack reports. | https://ransom.wiki/ |
 
 ## CACHE
 | NAME  | DESCRIPCIÓN | LINK |
@@ -152,7 +154,9 @@
 | PHONEINFOGA | VideoOsint: Collection of telephone number information with GoogleHacking through the PhoneInfoga v2.10.0 tool in Windows environment | https://twitter.com/ManuelBot59/status/1589271337054314496 |
 | PHONEINFOGA BONUS | Get Numverify and GoogleCSE Application Programming Interface (API KEY) keys to be used in the PhoneInfoga | https://twitter.com/ManuelBot59/status/1589957467014057988 |
 | SELLERFB | VideoOsint: Know the commercial user profile and obtain all their publications (made in the Facebook Marketplace) in Windows environment | https://twitter.com/ManuelBot59/status/1585984487111856128 |
+| RELATIONSFB | #OSINT tool to obtain relationships on Facebook. RelationsFB is an #OSINT tool that shows and downloads (in .CSV format) the relations of a Facebook profile just by entering the FBID (Facebook ID). | https://twitter.com/ManuelBot59/status/1570882200471744512 |
 | BLACKBIRD | VideoOsint: #OSINT tool to search accounts by name on 574 websites in GoogleCloudShell | https://twitter.com/ManuelBot59/status/1591066252113764352 |
+| MORIARTY PROJECT | #MoriartyProject (for phone numbers? running on #GoogleCloudShell? | https://twitter.com/ManuelBot59/status/1595794375874953217 |
 | REVERSE IMAGE SEARCH | VideoOsint: #OSINT Analyze Youtube, Facebook or Twitter links for investigations🔎 with Chrome extensions. | https://twitter.com/ManuelBot59/status/1593108499349008384 |
 | EXIFTOOLS METADATA | VideoOsint: #OSINT Extract information (Data from the data) from files, documents, images in general with the #ExifTool Tool in the Gui Graphic interface for Windows | https://twitter.com/ManuelBot59/status/1587837761071251457 |
 | OSINT PHONENUMBERS | Thread of Tools and methods for investigations by emails. | https://twitter.com/ManuelBot59/status/1592732079577759744 |
@@ -161,7 +165,11 @@
 | OSINT RESOURCES 2 | #OSINT Updated compilation of resources for Investigations, especially for analysts and researchers🔎 | https://twitter.com/ManuelBot59/status/1595235459466231808 |
 | INSTAGRAM OSINT 1| Compilation of Repositories, tools and extensions to obtain information in Instagram | https://twitter.com/ManuelBot59/status/1598699969967431683 |
 | INSTAGRAM OSINT 2 | 2nd collection of free services to view posts from an Instagram profile without having to be registered or have an account on the aforementioned social network. | https://twitter.com/ManuelBot59/status/1605009421985267717 |
+| TWITTER OSINT | Analyze twitter user accounts through dashboard | https://twitter.com/ManuelBot59/status/1578035073244626944 |
 | SHORT LINKS | Verification techniques and analysis of short links. | https://twitter.com/ManuelBot59/status/1579628732469628929 |
+| LIST EXTENSIONES P1 | #OSINT. Part 01. Favorite Extensions List (For Mozilla Firefox & Google Chrome) of Top Tools for OSINT Researchers and Analysts. | https://twitter.com/ManuelBot59/status/1611133361715650561 |
+
+
 
 ## BONUS OSINT RESEARCH THREADS WITH MANUELBOT
 | NAME  | DESCRIPCIÓN | LINK |
@@ -170,13 +178,25 @@
 | RESEARCH PHONENUMBERS | #OSINT: Analysis of research on telephone numbers (#WhatsappDataBreach), disseminated on #Telegram channels, with the use of techniques and tools to obtain information | https://twitter.com/ManuelBot59/status/1597968412239892480 |
 | RESEARCH FINGERPRINT | The power of #OSINT: This time I will tell you about an investigation that I have carried out on a colleague (from the School), until I managed to contact him; All through obtaining your #Fingerprint. | https://twitter.com/ManuelBot59/status/1599996851595358208 |
 | RESEARCH ELECTRONIC TICKET | The power of #OSINT: Obtaining information found from an electronic flight ticket (Published through Facebook stories). Tip: Never share too much information on social networks. #Fingerprint. | https://twitter.com/ManuelBot59/status/1601395685869363200 |
+| RESEARCH GOOGLE SHEETS | The power of data for #OSINT: Obtaining and crossing information from emails found in Google Sheets (Spreadsheets) exposed in Google, all as a result of a simple Dorking search. | https://twitter.com/ManuelBot59/status/1604464671506956289 |
+| RESEARCH PHONE NUMBERS IN FACEBOOK | The power of data for #OSINT: 🚨🚨 Obtaining and homologation of telephone number information 🇵🇪 (exposed directly by the same users in a Facebook post). | https://twitter.com/ManuelBot59/status/1605949241448271872 |
+| RESEARCH PHONE NUMBERS IN LINKEDIN | The power of data for #OSINT: Investigating Linkedin users, who, through comments, have been publicly exposing their emails linked to the different SOCIAL NETWORKS | https://twitter.com/ManuelBot59/status/1609395483495079937 |
+| RESEARCH PHONE NUMBERS SPAM | #OSINT: Investigating "Cyberscammer", who through a telephone number, would be dedicated to sending SPAM and SMISHING, to capture victims and after that commit various illegal activities. | https://twitter.com/ManuelBot59/status/1607862875829460992 |
+| RESEARCH USER IN FACEBOOK | The power of data for #OSINT: Investigating and exposing a Facebook user, who, through publications, would be providing "illegal" data removal services on various digital platforms | https://twitter.com/ManuelBot59/status/1612103023206989830 |
+
+
 
 ## BONUS OSINT TIPS WITH MANUELBOT
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| GOOGLE SHEETS| #TipManuelBot: Hello! I bring you a tip to copy data from a protected Google Sheets Document! (Document that cannot be copied or downloaded due to document access settings)| https://twitter.com/ManuelBot59/status/1602082141642317829 |
+| QUALITIES| 10 Qualities of a Cyber Intelligence Analyst especially for those who want to start in this world of obtaining information in Open Sources (OSINT) | https://twitter.com/ManuelBot59/status/1603429156024422402 |
 
-
-
-
-
+## BONUS OSINT VIDEOS WITH MANUELBOT
+| NAME  | DESCRIPCIÓN | LINK |
+| ------------- | ------------- |------------- |
+| OSINT APPLIED TO AWARENESS (SPANISH)| As part of the dissemination of information in relation to #Osint, on this occasion he accompanied us @AIBot_CdH, giving a presentation on "OSINT APPLIED TO AWARENESS" | https://www.youtube.com/watch?v=sJPt9HRgyrI&feature=youtu.be |
+| VIDEO OSINT CYBER INTELLIGENCE (SPANISH)| Introductory video of the OSINT Cyber Intelligence Workshop with Manuel Bot | https://www.youtube.com/watch?v=ogW61YT6F7w&feature=youtu.be |
 
 ## CONTRIBUTING
 Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
