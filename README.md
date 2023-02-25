@@ -10,6 +10,7 @@
   - [LINKEDIN](#linkedin)
   - [TWITTER](#twitter)
   - [TIKTOK](#tiktok)
+  - [REDDIT](#reddit)
 - [DOCUMENTS](#documents)
 - [WEB SITES](#web-sites)
   - [CACHÉ](#cache)
@@ -64,6 +65,11 @@
 | TIKTOK TIMESTAMP UTC-5 (PERÚ) | Free resource to extract the video creation date on TikTok in UTC-5 format (Peru Time Zone) |https://manuelbot59.github.io/tiktok-DatePeru/|
 | TOKCOUNT | Free service to extract general information from a user account on TikTok |https://tokcount.com/|
 | FIND TIKTOK USER ID |  Free service to Obtain the ID of a user account on TikTok| https://www.instafollowers.co/find-tiktok-user-id|
+
+## REDDIT
+| NAME  | DESCRIPTION | LINK |
+| ------------- | ------------- |------------- |
+| Reddit User Analyzer | Service to investigate user profiles on Reddit. |https://reddit-user-analyser.netlify.app/|
 
 ## DOCUMENTS
 | NAME  | DESCRIPTION | LINK |
