@@ -53,9 +53,8 @@
 | NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | TINFOLEAK | Free service to obtain detailed information about a Twitter user | https://tinfoleak.com/ |
-| FOLLOWER WONK | Free service to analyze the followers of a Twitter user | https://moz.com/followerwonk/analyze |
-| SOCIAL BEARING | Free service to Find followers, Statistics of followers of any Twitter user | https://socialbearing.com/ |
-| FOLLER ME | Free service to Find followers, Statistics of followers of any Twitter user | https://foller.me/ |
+| TWITONOMY | Powerful tools that have many search options. | https://www.twitonomy.com/ |
+| FIND TWITTER ID | Get the ID of a Twitter account... | https://www.codeofaninja.com/tools/find-twitter-id/ |
 | ALL MY TWEETS | Free service to View all the tweets of any Twitter user | https://www.allmytweets.net/connect/ |
 
 ## TIKTOK
