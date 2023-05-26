@@ -76,6 +76,8 @@
 | NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | ONLY SEARCH | Find OnlyFans profiles by searching for key words. |https://onlysearch.co/|
+| FANS METRIC | Search OnlyFans Accounts — Find all OnlyFans profiles. |https://fansmetrics.com/|
+
 
 ## DOCUMENTS
 | NAME  | DESCRIPTION | LINK |
