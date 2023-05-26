@@ -11,6 +11,7 @@
   - [TWITTER](#twitter)
   - [TIKTOK](#tiktok)
   - [REDDIT](#reddit)
+  - [ONLYFANS](#onlyfans)
 - [DOCUMENTS](#documents)
 - [WEB SITES](#web-sites)
   - [CACHÉ](#cache)
@@ -21,6 +22,7 @@
 - [USERNAMES](#usernames)
 - [TELEPHONE NUMBERS](#telephone-numbers)
 - [CRYPTOCURRENCIES](#cryptocurrencies)
+- [DARKNET](#darknet)
 - [BONUS THREADS OSINT WITH MANUELBOT](#bonus-threads-osint-with-manuelbot)
 - [BONUS OSINT RESEARCH THREADS WITH MANUELBOT](#bonus-osint-research-threads-with-manuelbot)
 - [BONUS OSINT TIPS WITH MANUELBOT](#bonus-osint-tips-with-manuelbot)
@@ -69,6 +71,11 @@
 | NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | Reddit User Analyzer | Service to investigate user profiles on Reddit. |https://reddit-user-analyser.netlify.app/|
+
+## ONLYFANS
+| NAME  | DESCRIPTION | LINK |
+| ------------- | ------------- |------------- |
+| ONLY SEARCH | Find OnlyFans profiles by searching for key words. |https://onlysearch.co/|
 
 ## DOCUMENTS
 | NAME  | DESCRIPTION | LINK |
@@ -151,6 +158,11 @@
 | ------------- | ------------- |------------- |
 | ALLYOUCANREAD | Directory Free Directory (#AllYouCanRed), containing the world's largest database of major magazines, newspapers and news sites |https://www.allyoucanread.com/|
 | RCR PERÚ | Free service to view important magazines, newspapers and news sites in Peru 🇵🇪 |https://www.rcrperu.com/portadas|
+
+## DARKNET
+| NAME  | DESCRIPTION | LINK |
+| ------------- | ------------- |------------- |
+| TOR.TAXI | your ride to the darknet |https://tor.taxi/|
 
 ## BONUS THREADS OSINT WITH MANUELBOT
 | NAME  | DESCRIPTION | LINK |
