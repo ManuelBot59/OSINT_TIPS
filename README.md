@@ -101,7 +101,9 @@
 | Custom search engine | To know if a fraudulent website | https://desenmascara.me/|
 | RANSOM WIKI | Search for the company or person by name in the database of ransomware attack reports. | https://ransom.wiki/ |
 | TOR 2 WEB | You can access the website with the domain ".onion" from your usual browser. JavaScript on the site is automatically disabled. | https://tor2web.activetk.jp/ |
-| DARK WEB ARCHIVE | A gyotaku creation tool for the dark web. You can archive the Onion site and download it in ZIP format. | https://darkweb-archive.activetk.jp// |
+| DARK WEB ARCHIVE | A gyotaku creation tool for the dark web. You can archive the Onion site and download it in ZIP format. | https://darkweb-archive.activetk.jp/ |
+| DARK WEB ARCHIVE | A gyotaku creation tool for the dark web. You can archive the Onion site and download it in ZIP format. | https://darkweb-archive.activetk.jp/ |
+| PI RECON | Optimizing OSINT Project. | https://pi-recon.streamlit.app/ |
 
 ## CACHE
 | NAME  | DESCRIPTION | LINK |
@@ -132,11 +134,13 @@
 | BLACKBIRD | #OSINT. Tool to quickly find accounts by username on over 574 websites | https://blackbird-osint.herokuapp.com/|
 | WHATSMYNAME | #OSINT. Tool that allows you to list usernames on many websites Free service|https://whatsmyname.app/|
 | NAMECHK | #OSINT. Tool that allows you to consult in more than 30 domains and more than 90 social networks |https://namechk.com/|
+| PI RECON | Optimizing OSINT Project. | https://pi-recon.streamlit.app/ |
 
 ## EMAIL
 | NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
 | GMAIL OSINT | You can obtain Google account information (name, profile picture, services used, etc.) from your Gmail address. | https://gmail-osint.activetk.jp/ |
+| PI RECON | Optimizing OSINT Project. | https://pi-recon.streamlit.app/ |
 
 ## LINK SHORTENERS
 | NAME  | DESCRIPTION | LINK |
@@ -152,6 +156,7 @@
 | REVERSE PHONE LOOKUP | Reverse Phone Lookup Directory|https://www.reversephonelookup.com/|
 | ZLOOKUP | Directory for Reverse Phone Number Lookup |https://www.zlookup.com/|
 | EMAIL PERMUTATOR | Free email exchange service |http://metricsparrow.com/toolkit/email-permutator/|
+| PI RECON | Optimizing OSINT Project. | https://pi-recon.streamlit.app/ |
 
 ## CRYPTOCURRENCIES
 | NAME  | DESCRIPTION | LINK |
