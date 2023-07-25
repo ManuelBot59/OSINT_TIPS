@@ -60,6 +60,7 @@
 | FIND TWITTER ID | Get the ID of a Twitter account... | https://www.codeofaninja.com/tools/find-twitter-id/ |
 | ALL MY TWEETS | Free service to View all the tweets of any Twitter user | https://www.allmytweets.net/connect/ |
 | TWITTER LEAKED | Twitter Leaked Checker - ActiveTK.jp | https://www.activetk.jp/tools/twitter-leaked200 |
+| WAYBACK TWEETS | Tool that displays multiple archived tweets in #WaybackMachine to avoid opening each link manually | https://waybacktweets.streamlit.app/ |
 
 ## TIKTOK
 | NAME  | DESCRIPTION | LINK |
