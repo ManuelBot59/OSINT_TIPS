@@ -204,6 +204,9 @@
 | SHORT LINKS | Verification techniques and analysis of short links. | https://twitter.com/ManuelBot59/status/1579628732469628929 |
 | LIST EXTENSIONES P1 | #OSINT. Part 01. Favorite Extensions List (For Mozilla Firefox & Google Chrome) of Top Tools for OSINT Researchers and Analysts. | https://twitter.com/ManuelBot59/status/1611133361715650561 |
 | LIST EXTENSIONES P2 | #OSINT. Part 02. List of favorite extensions (Especially for Google Chrome) of some main Tools for OSINT researchers and analysts. | https://twitter.com/ManuelBot59/status/1613922214000082945 |
+| #OSINT #TIPS #Google | Do you want to know which pages you have recently checked or which documents you have downloaded?. Google brings two useful shortcuts for these purposes. | https://twitter.com/ManuelBot59/status/1696250724689035738 |
+
+
 
 ## BONUS OSINT RESEARCH THREADS WITH MANUELBOT
 | NAME  | DESCRIPTION | LINK |
@@ -220,6 +223,8 @@
 | RESEARCH FAKE NEWS | The power of data for #OSINT. Investigating FakeNews publications that have been spreading on various social networks due to the great social-political situation that has been taking place in Peru | https://twitter.com/ManuelBot59/status/1616924626353025025 |
 | RESEARCH PHISHING-SMISHING | Have you ever received a "data update" alert from one of your so-called banking entities? Do you wonder why those #Phishing messages really reach you? | https://twitter.com/ManuelBot59/status/1622243692495998977 |
 | RESEARCH USER POST ON FACEBOOK | The power of data for #OSINT. Investigating user post on Facebook, which has been shared, in which personal information of Peruvian citizens has been exposed | https://twitter.com/ManuelBot59/status/1623725948209098767 |
+| EXHIBITION OF CORPORATE MAILING| The power of data for #OSINT. This time we will talk about corporate or institutional e-mails... Are you one of the people who use these emails to register in social networks, awareness? | https://twitter.com/ManuelBot59/status/1698922673445765274 |
+| DISCOVERING USER ACCOUNT MANAGER IN X | The power of data for #OSINT. Discover how to find the administrator of an #X (Private Account) account with OSINT/SOCMINT techniques | https://twitter.com/ManuelBot59/status/1738726761964138881 |
 
 ## BONUS OSINT TIPS WITH MANUELBOT
 | NAME  | DESCRIPTION | LINK |
