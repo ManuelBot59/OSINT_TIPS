@@ -205,7 +205,7 @@
 | LIST EXTENSIONES P1 | #OSINT. Part 01. Favorite Extensions List (For Mozilla Firefox & Google Chrome) of Top Tools for OSINT Researchers and Analysts. | https://twitter.com/ManuelBot59/status/1611133361715650561 |
 | LIST EXTENSIONES P2 | #OSINT. Part 02. List of favorite extensions (Especially for Google Chrome) of some main Tools for OSINT researchers and analysts. | https://twitter.com/ManuelBot59/status/1613922214000082945 |
 | #OSINT #TIPS #Google | Do you want to know which pages you have recently checked or which documents you have downloaded?. Google brings two useful shortcuts for these purposes. | https://twitter.com/ManuelBot59/status/1696250724689035738 |
-
+| #SOCMINT for #Awareness cases | I share with you an interesting article that might interest you and help you avoid publishing personal information on social networks. | https://twitter.com/ManuelBot59/status/1731401827952837055 |
 
 
 ## BONUS OSINT RESEARCH THREADS WITH MANUELBOT
@@ -253,4 +253,3 @@ Contributions are always welcome! Please read the [contribution guidelines](CONT
 - Personal Website : [@Manuel Bot](https://manuelbot59.github.io/ManuelOsint/)
 
 ## SOON!
-
