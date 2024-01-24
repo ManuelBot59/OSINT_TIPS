@@ -103,7 +103,6 @@
 | RANSOM WIKI | Search for the company or person by name in the database of ransomware attack reports. | https://ransom.wiki/ |
 | TOR 2 WEB | You can access the website with the domain ".onion" from your usual browser. JavaScript on the site is automatically disabled. | https://tor2web.activetk.jp/ |
 | DARK WEB ARCHIVE | A gyotaku creation tool for the dark web. You can archive the Onion site and download it in ZIP format. | https://darkweb-archive.activetk.jp/ |
-| DARK WEB ARCHIVE | A gyotaku creation tool for the dark web. You can archive the Onion site and download it in ZIP format. | https://darkweb-archive.activetk.jp/ |
 | PI RECON | Optimizing OSINT Project. | https://pi-recon.streamlit.app/ |
 
 ## CACHE
