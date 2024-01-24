@@ -225,6 +225,10 @@
 | EXHIBITION OF CORPORATE MAILING| The power of data for #OSINT. This time we will talk about corporate or institutional e-mails... Are you one of the people who use these emails to register in social networks, awareness? | https://twitter.com/ManuelBot59/status/1698922673445765274 |
 | DISCOVERING USER ACCOUNT MANAGER IN X | The power of data for #OSINT. Discover how to find the administrator of an #X (Private Account) account with OSINT/SOCMINT techniques | https://twitter.com/ManuelBot59/status/1738726761964138881 |
 | HOW EXPOSED IS OUR DIGITAL FOOTPRINT ON THE INTERNET? | The power of data for #OSINT. Is it easy to collect and link in different digital services our #DigitalFleet, well of course it is, and in this 🧵Thread, I show you how.... | https://twitter.com/ManuelBot59/status/1662581670048944133 |
+| HOW EXPOSED IS OUR DIGITAL FOOTPRINT ON THE INTERNET? | The power of data for #OSINT. How exposed is our #DigitalFingerprint on the Internet, how do I know if I have been a victim of a data breach (#Facebook, #Instagram, #Twitter, What steps to take. | https://twitter.com/ManuelBot59/status/1633639233427501056 |
+
+
+
 
 ## BONUS OSINT TIPS WITH MANUELBOT
 | NAME  | DESCRIPTION | LINK |
