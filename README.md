@@ -212,12 +212,6 @@
 | #OSINT information about websites | Are you one of those people who are interested in getting #OSINT information about websites. | https://twitter.com/ManuelBot59/status/1664034049449508865 |
 
 
-
-
-
-
-
-
 ## BONUS OSINT RESEARCH THREADS WITH MANUELBOT
 | NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
@@ -237,7 +231,9 @@
 | DISCOVERING USER ACCOUNT MANAGER IN X | The power of data for #OSINT. Discover how to find the administrator of an #X (Private Account) account with OSINT/SOCMINT techniques | https://twitter.com/ManuelBot59/status/1738726761964138881 |
 | HOW EXPOSED IS OUR DIGITAL FOOTPRINT ON THE INTERNET? | The power of data for #OSINT. Is it easy to collect and link in different digital services our #DigitalFleet, well of course it is, and in this 🧵Thread, I show you how.... | https://twitter.com/ManuelBot59/status/1662581670048944133 |
 | HOW EXPOSED IS OUR DIGITAL FOOTPRINT ON THE INTERNET? | The power of data for #OSINT. How exposed is our #DigitalFingerprint on the Internet, how do I know if I have been a victim of a data breach (#Facebook, #Instagram, #Twitter, What steps to take. | https://twitter.com/ManuelBot59/status/1633639233427501056 |
-| Investigating and exposing Facebook user | The power of data for #OSINT. Investigating and exposing Facebook user, who through publications, would be providing "illegal" data deletion services on various digital platforms 🇵🇪.🚨#HuellaDigital #AnalistaOsint #ManuelBot #Socmint | https://twitter.com/ManuelBot59/status/1612103028642832384 |
+| Investigating and exposing Facebook user | The power of data for #OSINT. Investigating and exposing Facebook user, who through publications, would be providing "illegal" data deletion services on various digital platforms 🇵🇪.🚨#HuellaDigital #AnalistaOsint #ManuelBot #Socmint | https://twitter.com/ManuelBot59/status/1612103023206989830 |
+
+
 
 ## BONUS OSINT TIPS WITH MANUELBOT
 | NAME  | DESCRIPTION | LINK |
