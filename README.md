@@ -187,9 +187,6 @@
 | PHONEINFOGA v1 | VideoOsint: Collection of telephone number information with GoogleHacking through the PhoneInfoga v2.10.0 tool in Windows environment | https://twitter.com/ManuelBot59/status/1584563470527500289 |
 | PHONEINFOGA v2 | VideoOsint: Collection of telephone number information with GoogleHacking through the PhoneInfoga v2.10.0 tool in Windows environment | https://twitter.com/ManuelBot59/status/1589271337054314496 |
 | PHONEINFOGA BONUS | Get Numverify and GoogleCSE Application Programming Interface (API KEY) keys to be used in the PhoneInfoga | https://twitter.com/ManuelBot59/status/1589957467014057988 |
-
-
-
 | SELLERFB | VideoOsint: Know the commercial user profile and obtain all their publications (made in the Facebook Marketplace) in Windows environment | https://twitter.com/ManuelBot59/status/1585984487111856128 |
 | RELATIONSFB | #OSINT tool to obtain relationships on Facebook. RelationsFB is an #OSINT tool that shows and downloads (in .CSV format) the relations of a Facebook profile just by entering the FBID (Facebook ID). | https://twitter.com/ManuelBot59/status/1570882200471744512 |
 | BLACKBIRD | VideoOsint: #OSINT tool to search accounts by name on 574 websites in GoogleCloudShell | https://twitter.com/ManuelBot59/status/1591066252113764352 |
@@ -211,6 +208,14 @@
 | #SOCMINT for #Awareness cases | I share with you an interesting article that might interest you and help you avoid publishing personal information on social networks. | https://twitter.com/ManuelBot59/status/1731401827952837055 |
 | Thread of Tools and methods for investigations | In this opportunity, I will make a recollection of all my popular tweets (Threads) about Tools and methods for investigations.🔎 | https://twitter.com/ManuelBot59/status/1652798913328324614 |
 | Telegram "People Nearby" option | Telegram's "People Nearby" option, easily obtained through #Telegram #Bots?. Is it easy to find IDs, users and groups that would be close to a geographic location?, Well, relatively it is... and here's an example | https://twitter.com/ManuelBot59/status/1646929952632086543 |
+| New Modality of #Phishing #Phishing #Smishing and #Pharming #Peru | New Modality of #Phishing #Phishing #Smishing and #Pharming pretending to be a page identical to the entity @interbank In order to capture information from users to then commit illegal activities (Law No. 30096 Computer Crimes Act).  | https://twitter.com/ManuelBot59/status/1652006184243609601 |
+| #OSINT information about websites | Are you one of those people who are interested in getting #OSINT information about websites. | https://twitter.com/ManuelBot59/status/1664034049449508865 |
+
+
+
+
+
+
 
 
 ## BONUS OSINT RESEARCH THREADS WITH MANUELBOT
@@ -232,6 +237,7 @@
 | DISCOVERING USER ACCOUNT MANAGER IN X | The power of data for #OSINT. Discover how to find the administrator of an #X (Private Account) account with OSINT/SOCMINT techniques | https://twitter.com/ManuelBot59/status/1738726761964138881 |
 | HOW EXPOSED IS OUR DIGITAL FOOTPRINT ON THE INTERNET? | The power of data for #OSINT. Is it easy to collect and link in different digital services our #DigitalFleet, well of course it is, and in this 🧵Thread, I show you how.... | https://twitter.com/ManuelBot59/status/1662581670048944133 |
 | HOW EXPOSED IS OUR DIGITAL FOOTPRINT ON THE INTERNET? | The power of data for #OSINT. How exposed is our #DigitalFingerprint on the Internet, how do I know if I have been a victim of a data breach (#Facebook, #Instagram, #Twitter, What steps to take. | https://twitter.com/ManuelBot59/status/1633639233427501056 |
+| Investigating and exposing Facebook user | The power of data for #OSINT. Investigating and exposing Facebook user, who through publications, would be providing "illegal" data deletion services on various digital platforms 🇵🇪.🚨#HuellaDigital #AnalistaOsint #ManuelBot #Socmint | https://twitter.com/ManuelBot59/status/1612103028642832384 |
 
 ## BONUS OSINT TIPS WITH MANUELBOT
 | NAME  | DESCRIPTION | LINK |
