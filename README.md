@@ -211,10 +211,7 @@
 | New Modality of #Phishing #Phishing #Smishing and #Pharming #Peru | New Modality of #Phishing #Phishing #Smishing and #Pharming pretending to be a page identical to the entity @interbank In order to capture information from users to then commit illegal activities (Law No. 30096 Computer Crimes Act).  | https://twitter.com/ManuelBot59/status/1652006184243609601 |
 | #OSINT information about websites | Are you one of those people who are interested in getting #OSINT information about websites. | https://twitter.com/ManuelBot59/status/1664034049449508865 |
 | webcams in real time | Are you one of those people who like to search for webcams in real time? I share with you a list of operators for researching owned and operated live streaming webcams | https://twitter.com/ManuelBot59/status/1665557474324226049 |
-
-
-
-
+| It is safe to register with Facebook, Twitter or another social network to log in to a website? | This time we will talk about the RISKS AND ADVANTAGES OF REGISTERING WITH A GOOGLE, FACEBOOK OR TWITTER ACCOUNT | https://twitter.com/ManuelBot59/status/1679515050501914626 |
 
 ## BONUS OSINT RESEARCH THREADS WITH MANUELBOT
 | NAME  | DESCRIPTION | LINK |
