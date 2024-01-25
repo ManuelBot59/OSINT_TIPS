@@ -210,6 +210,10 @@
 | Telegram "People Nearby" option | Telegram's "People Nearby" option, easily obtained through #Telegram #Bots?. Is it easy to find IDs, users and groups that would be close to a geographic location?, Well, relatively it is... and here's an example | https://twitter.com/ManuelBot59/status/1646929952632086543 |
 | New Modality of #Phishing #Phishing #Smishing and #Pharming #Peru | New Modality of #Phishing #Phishing #Smishing and #Pharming pretending to be a page identical to the entity @interbank In order to capture information from users to then commit illegal activities (Law No. 30096 Computer Crimes Act).  | https://twitter.com/ManuelBot59/status/1652006184243609601 |
 | #OSINT information about websites | Are you one of those people who are interested in getting #OSINT information about websites. | https://twitter.com/ManuelBot59/status/1664034049449508865 |
+| webcams in real time | Are you one of those people who like to search for webcams in real time? I share with you a list of operators for researching owned and operated live streaming webcams | https://twitter.com/ManuelBot59/status/1665557474324226049 |
+
+
+
 
 
 ## BONUS OSINT RESEARCH THREADS WITH MANUELBOT
@@ -232,7 +236,7 @@
 | HOW EXPOSED IS OUR DIGITAL FOOTPRINT ON THE INTERNET? | The power of data for #OSINT. Is it easy to collect and link in different digital services our #DigitalFleet, well of course it is, and in this 🧵Thread, I show you how.... | https://twitter.com/ManuelBot59/status/1662581670048944133 |
 | HOW EXPOSED IS OUR DIGITAL FOOTPRINT ON THE INTERNET? | The power of data for #OSINT. How exposed is our #DigitalFingerprint on the Internet, how do I know if I have been a victim of a data breach (#Facebook, #Instagram, #Twitter, What steps to take. | https://twitter.com/ManuelBot59/status/1633639233427501056 |
 | Investigating and exposing Facebook user | The power of data for #OSINT. Investigating and exposing Facebook user, who through publications, would be providing "illegal" data deletion services on various digital platforms 🇵🇪.🚨#HuellaDigital #AnalistaOsint #ManuelBot #Socmint | https://twitter.com/ManuelBot59/status/1612103023206989830 |
-
+| Is it possible to achieve full identification of a Telegram user? | The power of data for #OSINT: Is it possible to achieve full identification of a Telegram user, What information can be obtained from an invitation link, How exposed are our #Fingerprints? 🚨 | https://twitter.com/ManuelBot59/status/1638044843053137922 |
 
 
 ## BONUS OSINT TIPS WITH MANUELBOT
