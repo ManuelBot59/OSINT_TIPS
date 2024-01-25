@@ -205,7 +205,7 @@
 | LIST EXTENSIONES P2 | #OSINT. Part 02. List of favorite extensions (Especially for Google Chrome) of some main Tools for OSINT researchers and analysts. | https://twitter.com/ManuelBot59/status/1613922214000082945 |
 | #OSINT #TIPS #Google | Do you want to know which pages you have recently checked or which documents you have downloaded?. Google brings two useful shortcuts for these purposes. | https://twitter.com/ManuelBot59/status/1696250724689035738 |
 | #SOCMINT for #Awareness cases | I share with you an interesting article that might interest you and help you avoid publishing personal information on social networks. | https://twitter.com/ManuelBot59/status/1731401827952837055 |
-
+| Thread of Tools and methods for investigations | In this opportunity, I will make a recollection of all my popular tweets (Threads) about Tools and methods for investigations.🔎 | https://twitter.com/ManuelBot59/status/1652798913328324614 |
 
 ## BONUS OSINT RESEARCH THREADS WITH MANUELBOT
 | NAME  | DESCRIPTION | LINK |
@@ -228,6 +228,10 @@
 | HOW EXPOSED IS OUR DIGITAL FOOTPRINT ON THE INTERNET? | The power of data for #OSINT. How exposed is our #DigitalFingerprint on the Internet, how do I know if I have been a victim of a data breach (#Facebook, #Instagram, #Twitter, What steps to take. | https://twitter.com/ManuelBot59/status/1633639233427501056 |
 
 
+| HOW EXPOSED IS OUR DIGITAL FOOTPRINT ON THE INTERNET? | The power of data for #OSINT. How exposed is our #DigitalFingerprint on the Internet, how do I know if I have been a victim of a data breach (#Facebook, #Instagram, #Twitter, What steps to take. | https://twitter.com/ManuelBot59/status/1633639233427501056 |
+
+
+https://twitter.com/ManuelBot59/status/1584563470527500289
 
 
 ## BONUS OSINT TIPS WITH MANUELBOT
