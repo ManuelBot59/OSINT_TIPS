@@ -184,8 +184,12 @@
 ## BONUS THREADS OSINT WITH MANUELBOT
 | NAME  | DESCRIPTION | LINK |
 | ------------- | ------------- |------------- |
-| PHONEINFOGA | VideoOsint: Collection of telephone number information with GoogleHacking through the PhoneInfoga v2.10.0 tool in Windows environment | https://twitter.com/ManuelBot59/status/1589271337054314496 |
+| PHONEINFOGA v1 | VideoOsint: Collection of telephone number information with GoogleHacking through the PhoneInfoga v2.10.0 tool in Windows environment | https://twitter.com/ManuelBot59/status/1584563470527500289 |
+| PHONEINFOGA v2 | VideoOsint: Collection of telephone number information with GoogleHacking through the PhoneInfoga v2.10.0 tool in Windows environment | https://twitter.com/ManuelBot59/status/1589271337054314496 |
 | PHONEINFOGA BONUS | Get Numverify and GoogleCSE Application Programming Interface (API KEY) keys to be used in the PhoneInfoga | https://twitter.com/ManuelBot59/status/1589957467014057988 |
+
+
+
 | SELLERFB | VideoOsint: Know the commercial user profile and obtain all their publications (made in the Facebook Marketplace) in Windows environment | https://twitter.com/ManuelBot59/status/1585984487111856128 |
 | RELATIONSFB | #OSINT tool to obtain relationships on Facebook. RelationsFB is an #OSINT tool that shows and downloads (in .CSV format) the relations of a Facebook profile just by entering the FBID (Facebook ID). | https://twitter.com/ManuelBot59/status/1570882200471744512 |
 | BLACKBIRD | VideoOsint: #OSINT tool to search accounts by name on 574 websites in GoogleCloudShell | https://twitter.com/ManuelBot59/status/1591066252113764352 |
@@ -206,6 +210,8 @@
 | #OSINT #TIPS #Google | Do you want to know which pages you have recently checked or which documents you have downloaded?. Google brings two useful shortcuts for these purposes. | https://twitter.com/ManuelBot59/status/1696250724689035738 |
 | #SOCMINT for #Awareness cases | I share with you an interesting article that might interest you and help you avoid publishing personal information on social networks. | https://twitter.com/ManuelBot59/status/1731401827952837055 |
 | Thread of Tools and methods for investigations | In this opportunity, I will make a recollection of all my popular tweets (Threads) about Tools and methods for investigations.🔎 | https://twitter.com/ManuelBot59/status/1652798913328324614 |
+| Telegram "People Nearby" option | Telegram's "People Nearby" option, easily obtained through #Telegram #Bots?. Is it easy to find IDs, users and groups that would be close to a geographic location?, Well, relatively it is... and here's an example | https://twitter.com/ManuelBot59/status/1646929952632086543 |
+
 
 ## BONUS OSINT RESEARCH THREADS WITH MANUELBOT
 | NAME  | DESCRIPTION | LINK |
@@ -226,13 +232,6 @@
 | DISCOVERING USER ACCOUNT MANAGER IN X | The power of data for #OSINT. Discover how to find the administrator of an #X (Private Account) account with OSINT/SOCMINT techniques | https://twitter.com/ManuelBot59/status/1738726761964138881 |
 | HOW EXPOSED IS OUR DIGITAL FOOTPRINT ON THE INTERNET? | The power of data for #OSINT. Is it easy to collect and link in different digital services our #DigitalFleet, well of course it is, and in this 🧵Thread, I show you how.... | https://twitter.com/ManuelBot59/status/1662581670048944133 |
 | HOW EXPOSED IS OUR DIGITAL FOOTPRINT ON THE INTERNET? | The power of data for #OSINT. How exposed is our #DigitalFingerprint on the Internet, how do I know if I have been a victim of a data breach (#Facebook, #Instagram, #Twitter, What steps to take. | https://twitter.com/ManuelBot59/status/1633639233427501056 |
-
-
-| HOW EXPOSED IS OUR DIGITAL FOOTPRINT ON THE INTERNET? | The power of data for #OSINT. How exposed is our #DigitalFingerprint on the Internet, how do I know if I have been a victim of a data breach (#Facebook, #Instagram, #Twitter, What steps to take. | https://twitter.com/ManuelBot59/status/1633639233427501056 |
-
-
-https://twitter.com/ManuelBot59/status/1584563470527500289
-
 
 ## BONUS OSINT TIPS WITH MANUELBOT
 | NAME  | DESCRIPTION | LINK |
